@@ -52,7 +52,7 @@ One drawback that I face now is that sorting the tensorflow dataset on the basis
 
 Hence, I converted it back to pandas to continue with the remaining process.
 
-Please refer to the bge.ipynb file for further results.
+**Please refer to the bge.ipynb file for further results.**
 
 The final result of preprocessing and standardization is stored in output.csv
 
