@@ -139,6 +139,5 @@ Drawback I faced in this in this is :
 (3) Padding the idf_weights with the mean value until it reached the size of max_features made the dimensions compatible, but it lead to suboptimal results as it assigns arbitrary IDF weights to certain words.
 
 
-
-
+## For a more comprehensive overview on how tensorflow works please refer to the excel - Review-1.
 
