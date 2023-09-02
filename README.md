@@ -3,4 +3,6 @@ Clustering Indian addresses presents unique challenges and uncertainties due to 
 
 # Approach:
 
-## Data Cleaning
+## Data Loading
+
+
