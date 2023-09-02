@@ -106,7 +106,7 @@ This method efficiently clusters addresses by performing selective comparisons r
 
 The results this method gave were much better but however there is still some scope for improvement.
 
-## Other methods that were considered for vectorization but gave inaccurate vectors:
+## Other methods that were considered for vectorization but gave inaccurate vectors (Refer to Address-Clustering.ipynb):
 
 ### TF-IDF vectorization
 
