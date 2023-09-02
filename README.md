@@ -3,6 +3,8 @@ Clustering Indian addresses presents unique challenges and uncertainties due to 
 
 # Approach:
 
+The following methods is the flow according to the Address_Clustering.ipynb file.
+
 ## Data Loading
 
 The data was read from a csv into a pandas dataframe which was later converted into a tensorflow dataset
@@ -46,5 +48,10 @@ duplex.
 
 ![image](https://github.com/shaun270/Address-Clustering/assets/96012817/f01c318b-715e-4c24-a31a-fab77207e132)
 
+One drawback that I face now is that sorting the tensorflow dataset on the basis of pincode is not possible, since tensorflow datasets are not meant for that.
+
+Hence, I converted it back to pandas to continue with the remaining process.
+
+Please refer to the bge.ipynb file for further results.
 
 
