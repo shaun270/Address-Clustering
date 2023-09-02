@@ -78,6 +78,8 @@ and so on..
 
 The BGE from hugging face was used to encode the 'Delivery_Desc' column into vectors which would later be used for clustering.
 
+Here is the link for the model https://huggingface.co/BAAI/bge-large-en
+
 ## Clustering
 
 ### DBSCAN method
