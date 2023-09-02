@@ -98,4 +98,15 @@ The results it provided were unsatisfactory as visible in the bge.ipynb file.
 
 This step-by-step comparison minimizes the computational load by avoiding unnecessary comparisons, and also takes advantage of the fact that addresses with similar lengths are more likely to be similar or related, making the clustering process more efficient and effective.
 
+This gave somewhat satisfactory results but however still couldnt get all the desired addresses.
+
+### less than N:N comparisons within pincode
+
+This method efficiently clusters addresses by performing selective comparisons rather than exhaustive N:N comparisons. The algorithm identifies unique pincodes, initializes clusters, and compares address embeddings within the same pincode using cosine similarity. If the cosine similarity is greater than 0.85, the address is added to the existing cluster; otherwise, a new cluster is created. Finally, clusters with less than two addresses are removed. This approach optimizes computational resources while maintaining a reasonable level of clustering accuracy.
+
+The results this method gave were much better but however there is still some scope for improvement.
+
+
+
+
 
