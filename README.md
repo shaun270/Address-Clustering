@@ -122,6 +122,21 @@ The TF-IDF score is the product of these two quantities: TF * IDF. This score is
 
 Drawback:
 
+A notable drawback of the TF-IDF approach is that it tends to group addresses that share common words, regardless of the context or overall meaning of the address. This happens because TF-IDF assigns significance to words based on their frequency, which can lead to the clustering of addresses that frequently use common terms, even if the addresses refer to completely different locations. This characteristic of TF-IDF can sometimes lead to less accurate or meaningful clusters in the context of address clustering.
+
+### Vectorization using custom bag of words 
+
+This bag of words was ripped of from a pre-trained MuRiL model in tensorflow library which was trained on 17 different Indian languages. This file is the vocab.txt file in the repository.
+
+I wrote a code to extract only the words written in english and dump them in a file refactored.txt which is also present in the repository.
+
+Drawback I faced in this in this is :
+
+(1) If I already have a custom bag of words with me I do not have to call the method .adapt() (this method creates a vocabulary from the data you provide). Since I already had the custom bag of words with me I didnt need this.
+
+(2) I had to pad the idf_weights because the TextVectorization layer in TensorFlow expected a 1D tensor of size max_features, but the TfidfVectorizer from scikit-learn produced a different number of IDF weights due to differences in tokenization, preprocessing, and handling of out-of-vocabulary words. 
+
+(3) Padding the idf_weights with the mean value until it reached the size of max_features made the dimensions compatible, but it lead to suboptimal results as it assigns arbitrary IDF weights to certain words.
 
 
 
