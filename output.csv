@@ -1,0 +1,993 @@
+CUSTOMER_ID,Delivery_Desc,PIN_CODE
+1110,"b'delixy11, dec, 202113, 30'",122002
+1111,"b'ccubom18, dec, 202109, 35'",122002
+1112,"b'amgola, muzaffarpur, rbs, academy, flyover'",842001
+1113,"b'14, 663, 9, bazar, hyderabad, jumerat'",500012
+1114,"b'100ft, 506, agra, appartment, dream, kalyani, valley, dayalbagh, heights,   , valley'",282005
+1116,"b'ambala, rajput, vpo, boh, cantt, mohalla,   , pakka'",133001
+1118,"b'1, 3, 37, bowenpally, colony, hyderabad, lane, no,   , raja, reddy,   , secunderabad'",500011
+1119,"b'264,   , bengal, diamond, harbour, jewellers, kolkata,   , rupayan, west'",700034
+1120,"b'bgs, bhopal, president, talkies, bank, berasia, canra, honda, hotel, iasaigaj,   ,   '",462001
+1121,"b'155, 23, 3, delhi,   , new, no, pocket, rohini, sector'",110085
+1122,"b'69, a, aurangabad, devgiri, mitmita, valley'",431001
+1123,"b'106, 12, agreshen, bhilai, e,   , g, gatein, ho, in, javahar, khurshipar, lal, nehru, new, pt, raju,   , school, vishwakarma, of'",490011
+1124,"b'3rd, airport, b, bs2, chicalim, apartments, arebian,   , block, floor, hotel, queeny,   , sea, view'",403712
+1126,"b'2, 3, maharashtra, mumbai, borivali, eksar, koliwada, nilkanth, niwas, no,   ,   '",400092
+1127,"b'23, a, ambala, bsnl, city, exchange, jandli, sainik'",134003
+1128,"b'nov, 202113, 15, sxrbom30'",122002
+1129,"b'building, , power, pradhan, ram,   , rourkela'",769001
+1130,"b'  , surla, 275, goa, vedanta, dignem,   , office, vedanta'",403505
+1131,"b'156,   , kolkata, bahadur, ray,   '",700034
+1132,"b'2, 24, 5, 60, colony, east, godavari, h, no, p, rajahmundry, t, and'",533105
+1133,"b'32,   , roy, satyajit, siliguri'",734006
+1134,"b'at, district, sambalpur, dist, jarali, laida, po, sambalpur'",768214
+1135,"b'bank, federal, glamour, madom, mandir, mani, maniyoor,   , petrol, pump, vellangallur, west'",680662
+1136,"b'11, a, jaipur, shakti, kalyanpura, sanganer, vistar'",302029
+1137,"b'dec, 202111, 55, ixmmaa31'",122002
+1138,"b'2nd, 65, india, jodhpur, ka, khema, kuwa, pno, rajasthan, swastik, amrit, brothers, complex, dhani, floor, gym, ki,   , shobhawto, vihar'",342008
+1139,"b'072a, 348, bulaqi, lucknow, adda, bhadewan, sabiq'",226017
+1140,"b'delmaa29, dec, 202107, 25'",122002
+1141,"b'74, kolkata, sunflower, topsia, gardens,   '",700016
+1142,"b'ixcgoi18, oct, 202115, 45'",122002
+1143,"b'423, bus, c, kolkata, patipukur,   , railway, stop'",700048
+1144,"b'14, 393, delhi, gh14, gh, ground, new, paschim, pocket, vihar,   , floor, no'",110087
+1145,"b'13, cw, indore, sukhliya'",452010
+1146,"b'nov, 202117, 05, sxrdel22'",122002
+1147,"b'14, 5, brodipeta, guntur'",522002
+1148,"b'ccuixb22, jan, 202212, 35'",122002
+1149,"b'flour, in, jharkhand, kaushalya, ltd, 1st, main, mines, p, compound, ranchi,   , rungta'",834001
+1150,"b'11th, 1st, 2, 65, bangalore, kamakshipalya, kaveripura, cross, main'",560079
+1151,"b'1a,   , bakery, bose, club, dadabhai, deshbandhupara,   ,   ,   , satyen, siliguri, trimanjari'",734001
+1152,"b'1, 9, east, madurai, post, kalimangalam, office,   '",625020
+1153,"b'21, kali, kolkata, baromant, canel, mandir, opojit,   '",700053
+1154,"b'402, a, ahmedabad, chowki, gam, muktidham, nikol, police, radhabhakti,   ,   , aura,   , shiromani'",382350
+1155,"b'feb, 202208, 15, maaccu23'",122002
+1156,"b'101, b, dhanlaxmi, east, j, kalyan, lokgram,   , kdmc,   , office,   , wad, wing'",421306
+1157,"b'07, 400016, mumbai, mahim, noorani, west, cadel, chawl, marg, medico,   , no,   ,   , s,   '",400016
+1158,"b'bengaluru, hosa, l,   , s, v, venkateshvara, bakrey, doddamara, layout, raysandra,   , village'",560100
+1159,"b'15, 92, bank, jadhavpur, jheel, kolkata,   ,   '",700075
+1160,"b'9, agro, bhubaneswar, c, cie, dsp, ltd, no, patia,   , pvt, o'",751024
+1161,"b'119, asansol, b, gorai, para, rengenia,   , s'",713303
+1162,"b'373, 4, gurgaon, arya, khandsa, mandir, model,   ,   , samaj'",122001
+1163,"b'272, 4th, 501,   , bagh, c, delhi,   , floor, german, lane, new, royal, shaheen'",110025
+1164,"b'126, 2, mecheri, chamrajpet, mecheri'",636451
+1165,"b'ausa, axis, bank, latur, reliance,   , digital, khardekar,   '",413512
+1166,"b'25, 31, nuzvid, r, bus, peta,   , stop'",521201
+1167,"b'373, alipur, delhi, kadipur, kh, north, village'",110036
+1168,"b'431, bikaner, meghvalon, desar, ka, kismi, mohalla'",334403
+1169,"b'1st, 2, 264, maduraiveeran, malumichampatti, kovil,   '",641050
+1170,"b'maabom05, nov, 202107, 00'",122002
+1171,"b'aditya, alamuru, car, decors, mandapeta,   , siri, college'",533308
+1172,"b'ccumaa12, dec, 202117, 45'",122002
+1173,"b'607, b, block,   , hyderabad, kokapet, no, park, pipeline,   , serenity'",500075
+1174,"b'1, 282, , no, roorkee, saket'",247667
+1175,"b'district, health, jalpaiguri, rongdhamali, center, more'",735121
+1176,"b'kozhikode, methalaparambath, p, , kommeri, o'",673007
+1177,"b'403, bank,   ,   , hyderabad, india, jr, qutbullahpur, residency,   , suchitra, union, vennelagadda, x, of'",500067
+1178,"b'1152, 6, b, bokaro, city, no, qr, qr'",827006
+1179,"b'1, 45, branch, district, ghanpur, jangaon, kondapur, office, post, station, subdistrict'",506145
+1180,"b'314, ambedkar, br, district, dr, etcherla, landmark, srikakulam, university, anganbadi, building,   '",532410
+1181,"b'134, 204, jawaharlal, nehru, pondicherry,   '",605001
+1182,"b'176, 3rd, 5, 8, church, infant, jesus,   , tuticorin, caldwell, colony'",628008
+1183,"b'5, e, kalwa, rb2, thane, colony, railway,   , station, thane'",400605
+1184,"b'384, auto, b, bank, co,   , palkar, rendal, veershaiv, op'",416203
+1185,"b'aloor, palakkad, thottupalam, west, yakkara, h'",678001
+1186,"b'blrlko11, dec, 202106, 20'",122002
+1187,"b'101, 3, mee, mylavaram,   , center, seva, sivalayam,   '",521230
+1188,"b'karthika, malayinkeezhu, thiruvanthapuram, o, p'",695571
+1189,"b'kqhdel05, nov, 202116, 30'",122002
+1190,"b'28c, anoskha, district, goa,   , nr, restaurant, salcete, south, subdistrict, and, bar, sonfator'",403718
+1191,"b'bikaner, district, taluka, village, chhatargarth, mahadevwali'",334021
+1192,"b'1064, 65, surat, anupam, market, surat'",395002
+1193,"b'feb, 202208, 40, stvccu02'",122002
+1194,"b'feb, 202208, 40, stvccu02'",122002
+1195,"b'delsag11, dec, 202111, 45'",122002
+1196,"b'01, 14, building, cityzone, complex, east, infotech, janvi, lake, no,   , plaza, radheshyam, shop, singh, suraj, vasai, virar, waliv'",401208
+1197,"b'101, 2, 3, 313, 5, hyderabad, hyderguda, mobiles, attapur'",500048
+1198,"b'dukhumiyan, mancha, new, rajarhat, town, gopalpur, latkuti, purbayan'",700136
+1199,"b'700024, arun, d, 224, electric, ground, kolkata,   , shop'",700024
+1200,"b'jdhhyd19, nov, 202113, 00'",122002
+1201,"b'kozhikode, mavoor, space, calicut, jaferkhan, kolany, mall, mavoor'",673004
+1202,"b'217, 3, 4, beside, nellore, main, ramalingapuram,   , sachivalayam'",524003
+1203,"b'1, 18, 196, 73, hyderabad, above, balaji, first, floor, h, hanumanpet, malkajgiri, no,   , shop, sweet'",500047
+1204,"b'6, 1494, mahidharpura, surat, kansara, sheri'",395003
+1205,"b'dellko16, oct, 202112, 20'",122002
+1206,"b'dhand, moga, old, court, gali, garments,   , patti,   , wali'",142001
+1207,"b'1, 10, 14, 4, eluru, jenda, chettu, gunbazar, mahal,   , pension'",534005
+1208,"b'bazar, chowk, dawa, dist, jaju,   , pusad, yavatmal'",445204
+1209,"b'118, 1st, 3, azadgarh, firm, floor, kolkata,   , office, park, poltry, post, regent, tollygunge'",700040
+1210,"b'16, 237, dr, nellore, sunday, back, cardiac, care, center, hospital, market, reddy, s, side'",524001
+1211,"b'417, ag, bagh, delhi, new, poorvi, shalimar'",110088
+1212,"b'1, 24, andhra, andrangi, d, district, draksharamam, east, godavari, kajuluru, mandal, no, pin, pradesh, code'",533262
+1213,"b'14, 36, 43, 8, 83, balaji, boduppal, colony, east, hill, hyderabad,   , no'",500092
+1214,"b'106, building, g, gogol,   , l, margao'",403601
+1215,"b'4, andheri, b, east, mumbai, marol,   ,   , dhaba, kanchan, maroshi,   , the, uttam'",400059
+1216,"b'ankit, district, main, new, rajkot, virpur, bajar, crystal, guesthouse, jalaram, mall, same'",360380
+1217,"b'2nd, 5, bhaskar,   , mumbai, pailipada, renovation,   , sion, trombay,   , floor, no'",400088
+1219,"b'21, 8, a, ashok, avenue, avenue'",713204
+1220,"b'maaccu26, nov, 202118, 25'",122002
+1221,"b'45, bicholim, vadawal, deulwada, latambarcem'",403504
+1222,"b'blrcok25, dec, 202119, 40'",122002
+1223,"b'674, bhubaneswar, hotel, jagamara,   '",751030
+1224,"b'goihyd13, nov, 202117, 55'",122002
+1225,"b'hdfc, pune, talegaon, atm, bharat, center, chicken, chowk, dabhade, zijamata'",410506
+1226,"b'1, 18, 29, 7, 9, a, chandrayangutta, h, hyderabad, no'",500005
+1227,"b'10, 203, ahmedabad, sola, city, heights,   , samarth, science, sola'",380060
+1228,"b'25, jay, new, porbandar, chamunda, krupa, kumbharwada,   , pan, ram, shree'",360575
+1229,"b'4, 3, 111, highway, jagtial,   , nizamabad, usman, clinic'",505327
+1230,"b'dec, 202106, 15, lkoixb08'",122002
+1231,"b'dehradun, cantt, colony, garhi, kandli, sainik'",248003
+1233,"b'29, 3, kothuru, tadepalli, telephone, vijayawada, exchange,   , rural, vijayawada'",520012
+1234,"b'25, agra, dewari, estate, h, kaulakha, marg, om,   , bagichi, deori, kotli, no'",282001
+1235,"b'13, 29, hyderabad, ngos, coloney, g, medchal'",501401
+1236,"b'care, kumardangi,   , raiganj, samsung'",733134
+1237,"b'503, avenue, chandan, d, east, mira, new, thane, bhayander,   '",401107
+1238,"b'524, ayyasamy, colony, kangeyam, kottai, palaya,   '",638701
+1239,"b'assotech, b092, crossing, ghaziabad, republic, the, nest'",201016
+1240,"b'204, a, appartment, chowk, district, east, gandhi, milan, no, phoolpada,   ,   , thane, virar, wing'",401305
+1241,"b'10, 121, balaji, district, godavari, mandalam, mro, office, peta, rao,   , undi, west'",534199
+1242,"b'aska, berhampur, flour, ltd, mill,   , pvt,   , shakti, mill'",760001
+1243,"b'220, 592k, lucknow, telibagh, colony, defence'",226025
+1244,"b'814, bori, district, dongaraali, , mora, raigarh,   , uran, no'",400702
+1245,"b'2, 2rb, 9, 92, bhubaneswar, qrs,   '",751022
+1246,"b'auto, bakery, breeze, coimbatore, friends, kuniamuthur,   , carrage'",641008
+1247,"b'9, dewas, bhagat, electronic, marg, singh'",455001
+1248,"b'thalassery, bus, coffee, gallery, , indian, mg, ncn, old,   , stand, thalassery'",670101
+1249,"b'405, budruk, charholi, chinchwad, kalajewadi, life, lifeville, pimpri,   , no, ville'",412105
+1250,"b'1st, ajay, bhawan, c, center, floor, microtek,   , nirankari, o, puran, ranchi, service, vihar'",834002
+1251,"b'dehradun, jagriti,   , balawala, bhartu, ki, puliya, vihar'",248001
+1252,"b'2, 389, 5, 7, 8, hyderabad, banjarahills, basti, devarakonda, hyd, no,   '",500034
+1253,"b'3, b, h, matru, rajkot, chhaya, kothariya, park, ranuja,   , santosh'",360002
+1254,"b'180, centralpark, gidc, jignesh, pandesara,   , surat, textiles, no'",394221
+1255,"b'1204, 137, a, exotica,   , fresco, noida, sector, tower'",201305
+1256,"b'park, solapur, chowk, hostal, nehru, solapur'",413004
+1257,"b'churu, dist, meharasar, rajsthan, sardarshahar, sardarshahr, chachera'",331403
+1258,"b'2nd, kozhikode, anne, arcade, calicut, floor, hall, kamala,   '",673002
+1260,"b'2, 4, 40ft, 7, 90, a, dairy, delhi, gali,   , new, rama,   , rohini, vijay, no, phase, sector, vihar'",110085
+1261,"b'at, bhagalpur, govriyan, singhpur, distt, po'",812006
+1262,"b'302, 599, 6th,   , hig, hyderabad, nilayam, phase, raaga, colony, kphb, kukatpally, no,   '",500085
+1263,"b'10, 39, satara, apart,   , mandir, mangalwar, no, peth, shejari, shivaaditya'",415002
+1264,"b'16, 1st, basni, e, jodhpur, mia, phase'",342007
+1265,"b'1, bolpur, bandhumahal, durga, makrampur, mandir, no,   '",731204
+1266,"b'35, 4, bs, lucknow, marg, nirbhaya, vihar'",226002
+1267,"b'304, 3rd,   , mylavaram, tiruvuru, floor, number, prameela, residency,   '",521230
+1268,"b'21, dehradun, luniya, mohalla'",248001
+1269,"b'3, 560066, 9th, axis, bangalore, bank, bengaluru, floor, prestige, shantiniketan, whitefield, cresent, shanthinkethan'",560048
+1270,"b'203, b, boisar, dist, khodaram, palghar, railway, station, tal, bag, bld,   , no, vidhat'",401501
+1271,"b'  , cooch, bus, keshob, mart, oposide,   , stan, v, vmart'",736101
+1272,"b'1302, 3, ahuja, building, desai, marg, mumbai, no, nr, prabhadevi, rajabhau, sra, tower'",400025
+1273,"b'alpha, bazar, intel, kannur, south, chembers, office'",670002
+1274,"b'barmer, dev, gehoon, ke, mandir, paas,   , shani'",344001
+1275,"b'alandi, chawl, kadam, pune,   , sunil, vishrantwadi, madale'",411015
+1276,"b'124, basirhat, po, vill, college'",743412
+1277,"b'1, 454, aa, b, dumdum,   , k, kolkata, lane, paul,   , rbi, stuff, no'",700030
+1278,"b'1, 54, 55, 86, hafizpet, hyderabad'",500049
+1280,"b'1, 101, 97, academy, borivali, bungalow, computer, gorai, mumbai,   , raj, shivshakti, west'",400091
+1281,"b'20, 5th, hyderabad, mansoorabad,   , b, cross, left, maim, no,   '",500068
+1282,"b'32, koil, mariamman, mettupalayam, no, post, pudhukadai, puducherry, singri,   '",605007
+1283,"b'2nd, city, co, future, insurance, kozhikode,   , ymca, floor, generali, india, kannur, ltd, mall,   '",673001
+1284,"b'10,   , camp, gr, no, park, rakshak, srpf, solapur,   , solapur'",413004
+1285,"b'76, abdasa, d, district, kachchh, industries, limited, sanghi, sanghipuram'",370511
+1286,"b'1014, bangalore, bengaluru, furniture'",560047
+1287,"b'hydbom23, jan, 202210, 45'",122002
+1288,"b'2, 58, district, h, mandal, mendora,   , nizamabad, no, village, hanman, temple'",503219
+1289,"b'3477, c, lucknow, rajajipuram'",226017
+1290,"b'dellhr03, nov, 202103, 20'",122002
+1291,"b'edaikodu, melpalai, varuvilai, district, kanyakumari, po, tk, veedu'",629152
+1292,"b'rampurhat, birbhum, mill, rice,   , sarodapolly'",731224
+1293,"b'2, 610, coimbatore, chinniyampalayam, kovil,   , perumal, post,   , venkittapuram'",641062
+1294,"b'palakkad, pirayiri, santhi, nivas'",678004
+1295,"b'dec, 202115, 20, vnsidr30'",122002
+1296,"b'bicholim, goa, mapusa, tivim, hyudai,   '",403507
+1297,"b'cisf, cuttack, ndrf, rtc, mundali'",754006
+1298,"b'cisf, cuttack, ndrf, rtc, mundali'",754006
+1299,"b'105, 3, coimbatore, d, mettupalayam, rg, mahadavepuram, post, pudur'",641305
+1300,"b'180, indara, nimbahera, colony'",312601
+1301,"b'24, 35b, singh, valangaiman,   , valangaiman'",612804
+1302,"b'101, amritsar, amusement, avenue, batala, city, heart, ,   , number, park,   , sun'",143001
+1303,"b'delstv27, jan, 202218, 10'",122002
+1304,"b'366, bara, kharagpur, ayma'",721301
+1305,"b'maaixm09, oct, 202116, 50'",122002
+1306,"b'maaixm09, oct, 202116, 50'",122002
+1307,"b'16, 1610, 3, b, co, f, housing, mumbai, no, op, shriram, dongri, floor, ganesh, goregaon, mandir,   , no'",400104
+1308,"b'kadamtala, shivmandir, siliguri, bazar, darjeeling, gate,   , rail'",734011
+1309,"b'bakshi, ka, sardar, talab, bncet, boys, college, hostel, talab'",226201
+1310,"b'deoli, jyoti, office, post, subdistrict, tonk, colony, gotam,   , sadan'",304804
+1312,"b'kalluvila, kollam, o, p, thevalakkara, kizhakekara, puthen, veedu'",690524
+1313,"b'5, ahmedabad, ashram, block, b, complex, floor, girish'",380009
+1314,"b'kollam, ramnivas, kizhavoor, kollam'",691577
+1315,"b'a, alappuzha, charankattu, cherthala, district,   , s, coir, company, ltd, manufacturing, pvt'",688582
+1316,"b'ccubom30, nov, 202105, 00'",122002
+1317,"b'10, 90, lingayat, sedam, kodla, krupa, nilaya, oni, sagar'",585222
+1318,"b'28, alias, antony, dist, fire, garrage, khalapur, midc, mohpada,   , no, p, patalganga,   , raigad, station, tal, wasambe, garage'",410207
+1319,"b'18, 8, aravakurichi, district, karur, subdistrict, meerismailstreet, pallapatti'",639205
+1320,"b'dbrccu27, nov, 202112, 55'",122002
+1321,"b'a22, ambattur, estate, industrial, nolambur,   , service, tiruvallur, citilights, meadows, oakblock'",600095
+1322,"b'1, 1pindi, 9652897004, kodur, madhu, by, centre, chicken, machine,   '",516101
+1323,"b'35, 6, harbour, new, thoothukkudi, colony, labour, tuticorin'",628004
+1324,"b'ccugoi06, oct, 202111, 25'",122002
+1325,"b'52, 581, g, indore, m,   , ug, bansi, btc, centar,   '",452001
+1326,"b'285, 30, basavakalyan, shapur, gali'",585327
+1327,"b'delixa31, oct, 202108, 40'",122002
+1328,"b'1246, bains, h, hoshiarpur, bajwara, colony, kalan'",146023
+1329,"b'02, 5, 76, arasakulam, district, kanniyakumari, , kalaivilai'",629173
+1330,"b'1, collecter, colony, erode, floor, ground, mall,   , office, perunthurai, reliance,   , teachers'",638011
+1331,"b'  , padmdhar, rewa, colony, dekha, hill, miss, public, school'",486001
+1332,"b'bazar, dhaura, jaridih, makoli, niche, phusro'",829114
+1333,"b'ccjccu18, oct, 202113, 35'",122002
+1334,"b'care, kozhikode,   , cafe, dr, laboratories, reference'",673008
+1335,"b'achli, batala, gali, gate, i, s, khilonia, wali'",143505
+1336,"b'shrirampur, dhavkhar,   ,   '",413709
+1337,"b'gavspura, latur,   , galli, juned, masjid'",413512
+1338,"b'choudhari, gali, katihar, lodge, mg, murphy, radio,   , tohid, medical,   ,   '",854105
+1340,"b'atm, collector,   , sangareddy, sc, building, corporation, karur, office, vysya'",502001
+1341,"b'bomvns24, jan, 202213, 20'",122002
+1342,"b'16, 2rt, hyderabad, panjagutta, colony, panjagutta'",500016
+1343,"b'140, 6, a, 700099,   , kolkata, shiv, agragami, club, beside, mandir, 7596824102, shiv'",700099
+1344,"b'buddhawar, kurnool, hospital,   , omni, peta'",518002
+1345,"b'akshata,   , niwas, palghar,   , talavpada, tembhode, college, dandekar, sonopant'",401404
+1346,"b'w,   , g, b,   , ichha, niwas, no, 66, sai, school, thane'",400615
+1347,"b'dbrdel06, jan, 202213, 30'",122002
+1349,"b'dakabangala, forum, kodala, lane, people, s'",761032
+1351,"b'raigarh, sindhi, beladula, colony,   '",496001
+1352,"b'angadi, gokak, goudra, hospet, mobile, p, ramesh, galli,   '",591307
+1353,"b'2, 4, 57, budida, kothagudem, basthi, gadda'",507101
+1354,"b'0038, basirhat, d, h, m,   , para'",743411
+1355,"b'4, amritsar, chowk, first, floor, gali, market, nizampuria, no, sarwarpura, tahliwala'",143006
+1356,"b'jetpur, jetlsar, junction'",360370
+1357,"b'jetpur, jetlsar, junction'",360370
+1358,"b'idrbom09, nov, 202109, 35'",122002
+1359,"b'amarsar, railway, wankaner, station'",363621
+1360,"b'church, miryalaguda, vanheusen, hospital,   ,   , shirisha, store'",508207
+1361,"b'bokaro, city, sri, steel, bay, chas, manshan, pass, ram, rood, sales'",827013
+1363,"b'balamandiram, foundation, muvattupuzha, south, warrier, mazhuvannoor, post'",686669
+1364,"b'antagarh, bhanupratappur, government, gulshan, hospital, hotel,   ,   '",494669
+1365,"b'616, complex, dn, gaudi, lucknow, madiyawn,   , p16, semra, singh'",226021
+1366,"b'gaumaa24, oct, 202119, 05'",122002
+1367,"b'kesavapuram, tenkasi, paspon,   '",627813
+1368,"b'15, 187, ,   , sambalpur, colony, modipara, no, punjabi, tank, water'",768002
+1369,"b'14th, 63, a, bengaluru, cord, cross, mahalakshmi, main, of, puram,   , west'",560086
+1370,"b'b, 365, bikaner, colony, kk,   , sadan, sanskar'",334001
+1371,"b'b, 365, bikaner, colony, kk,   , sadan, sanskar'",334001
+1372,"b'5, 58, b, earvadi, mahal, mill, musiri,   , pet,   , s,   , t, taluk, trichy, district'",621211
+1373,"b'bhagat, bhagatpur, cuttack, postoffice, pur'",754022
+1374,"b'2, 20, 259, 7, darwaza, fateh, h, himmath, hyderabad, no, pura, qazi'",500065
+1375,"b'civil, mahindra, sheohar, complex, court, district,   '",843329
+1376,"b'balotra, ghevar, maa, aashapura, bus, fanta, ji, ka, pachpadra, stend, studio'",344022
+1377,"b'shirpur, chowh, kandil,   , panch, pateshwar'",425405
+1378,"b'shirpur, chowh, kandil,   , panch, pateshwar'",425405
+1379,"b'1024, bijalpur, indore, dharamshala, jain,   '",452012
+1380,"b'ghaziabad, h40, india, mehrauli, pradesh, uttar, village'",201002
+1381,"b'bhusawal, india, maharashtra, tal, galli, gallisakegaon, palace, patel'",425201
+1383,"b'18, 567, ichalkaranji, indusrial, estate'",416115
+1384,"b'4, 5, mumbai,   , wadibunder, central, chawl, colony, masjid, no, p, railway,   , s, v'",400009
+1385,"b'motihari, adda, baryarpur, choota, hali, hawae,   , pad'",845401
+1386,"b'2201, 22nd, agripada, bapurao, byculla,   , floor, hilton, jagtap, marg, mumbai, no, residency, west'",400011
+1387,"b'1, 15, 1906, b, eco,   , greater, noida, sector, supertech, village, west, village'",201306
+1388,"b'blrdbr04, jan, 202212, 05'",122002
+1389,"b'12, enclave, h, hisar, no, rajendra'",125001
+1390,"b'002, 08, 6th, bangalore, mnr, airport, ambedkar, cross, kodihalli,   , old, paradise,   '",560008
+1391,"b'4th, agraharam, at, church, d, no, 26, 41, 104, guntur, line, line'",522004
+1392,"b'bardhaman, district, mahalaxmi, pandabeswar, paschim, subdistrict, camp'",713378
+1393,"b'ccubbi24, dec, 202117, 25'",122002
+1394,"b'ata, mahajan, rewa, shukla,   , chakki, gaddi,   '",486001
+1395,"b'1, 11, district, medak, shivampet, subdistrict, thimmapur, timmapur'",502290
+1396,"b'district, in, rayagada, subdistrict, tikiri,   , liquer, of, shop'",765015
+1397,"b'1045, fozi, jhansi, sangam, chuhraha, colony,   , vihar'",284003
+1398,"b'delcmb04, dec, 202122, 20'",122002
+1399,"b'oct, 202115, 30, patdel15'",122002
+1400,"b'53, chikkapura, malur, govt,   , school, village'",563130
+1401,"b'107, 4, ashutosh, awas, barabanki, bhalla, c,   , o, colony, kashiram, vikas'",225001
+1402,"b'dec, 202110, 40, lkoixj29'",122002
+1403,"b'america, district, kodapi, prakasam, building, jammulapalem,   '",523274
+1404,"b'136, 16, rourkela, sec, sector, a'",769003
+1405,"b'114, district,   , india, jharkhand, mahulsai,   , pashchimi, singhbhum, chaibasa, cycle, niwas, pumple,   , satyapal, straight, towards'",833201
+1406,"b'amazon, baidaposi, rairangpur, office'",757043
+1407,"b'50, b, bf, block, central, delhi, gobind, guru, garden, kunj, metro,   , new, school, singh, station, tagore'",110027
+1408,"b'28, baba, bharat, boot, hotel, , line, musrigharari,   , nh, samastipur'",848101
+1409,"b'2, complex, daman, department, engineer, executive, floor, i, market, moti, multi,   , office, pwd, petrol, public, pump, wd, work'",396220
+1410,"b'diamond, jalpa, katargam, patelwadi,   , surat, torrent, vastadevdi,   , power'",395004
+1411,"b'barwadih, pahadtalli, district, durjagin, latehar, mandir,   , police, post'",822111
+1412,"b'ajanta, board, edappadi, housing, poolampatti,   , marketedappadi, super'",637101
+1413,"b'1st, 3, high, n,   , s, tirunelveli, building, dwaraga, floor, office,   , post'",627001
+1414,"b'bomshj06, dec, 202115, 10'",122002
+1415,"b'bargarh, in, me, bazar, chowk,   , gourpada, main, mom, of,   , suruchi'",768028
+1416,"b'kadiri, khan,   ,   , yahoo, fayaz, valisab'",515591
+1417,"b'and, constructions, designs, high, kuttippala, mukkam, pattaniyil,   , school, thazhecode'",673602
+1418,"b'150, 6, kundukur, singarayakonda, church,   ,   , town'",523101
+1419,"b'21, jabalpur, mandla,   '",481661
+1420,"b'130, 8, h, khammam, pandurangapuram, ramalayam, temple, no'",507002
+1421,"b'115, bareli, e, malik, rae, colony, mau'",229001
+1422,"b'ambey, buds, dashadron, little, new, niketan, town'",700136
+1423,"b'9887786912, sujangarh, walmiki, bastii, lalta, mandir, mata, sujangarh'",331507
+1424,"b'airtel, district, indian, mashrakh, petrol, saran, store, subdistrict, of,   , pump'",841417
+1425,"b'feb, 202212, 20, idrgoi13'",122002
+1426,"b'para, rampurhat, rathtala, srifala, vill'",731224
+1427,"b'840, block, delhi, first, floor, j, new, puri, jahangir, school'",110042
+1428,"b'840, block, delhi, first, floor, j, new, puri, jahangir, school'",110042
+1429,"b'840, block, delhi, first, floor, j, new, puri, jahangir, school'",110042
+1430,"b'birapratappur, dolagibinda, mahaveer, dolagobinda, pur, sahi'",752012
+1431,"b'c, chintamani, malapalli, o, building, kallahalli,   '",563125
+1432,"b'6r, badli, bahadurgarh, basant, gali, no,   '",124507
+1433,"b'4, 72, hanuman, indupally, junction, pallelarmudi, thambi'",521105
+1434,"b'138, 2, jalandhar, urban, estate, phase'",144001
+1435,"b'bus, enclave, gulabi, kalakunj, kodiabail, mangaluru, ocean, pearl,   , shripad, stop, the'",575003
+1436,"b'champa, jagdalla, manka,   , tehsil, colony, mahavidyalay, public,   , school'",495671
+1437,"b'12, c, enclave, ghaziabad, shahibabad, shyam, ugf'",201005
+1438,"b'alappuzha, banglavuparampil, district, vettiyar, mankamkuzhy, pallimukku, po, south, vettiyar'",690558
+1439,"b'hanuman, jay, main, mill, niphad,   , samarth, saw, '",422303
+1440,"b'14, aalangadu, coimbatore, elachipalayam, karumathampatti, no, sf, thottam'",641659
+1441,"b'chakkanthara, district, dreamzmedia, mudappallur, palakkad, planners, wedding'",678706
+1442,"b'chakkanthara, district, dreamzmedia, mudappallur, palakkad, planners, wedding'",678706
+1443,"b'10, 425, arawali, bhiwadi, sec10, vihar'",301019
+1444,"b'akola, colony, firdous, masjid,   '",444001
+1445,"b'at, badamba, cuttack, dist, kaduapada, pin, po, ps, kaduapada'",754031
+1446,"b'2, 6, arimalam, melamadam, po, pudukkottai'",622201
+1447,"b'17, mughalsarai, chanduli, chandulichanduli, parshurampur'",232101
+1448,"b'color, nilambur, ooty, ams, balloon, building, new, nilambur'",679329
+1449,"b'377, 7, a, chandigarh, sector'",160019
+1450,"b'chemmanda, porathissery, temple, thoomat, ,   '",680711
+1451,"b'devpura, haridwar, rishikul, ayuvedic, college, state'",249401
+1452,"b'124, 4, 9, prathipadu, prattipadu'",533432
+1453,"b'agarahara, back, bakery, bengaluru, gate, itpl,   , pattanduru'",560066
+1454,"b'7, a, tarsadi, bhai, bhailalpark, bhialal, kosamba, ni, tarsadi'",394120
+1455,"b'arts, collage, kozhikode, meenchantha, and, science'",673018
+1457,"b'3, 381, chandigarh, daria, b, gali, govt,   , no,   , railway, school, station, village'",160101
+1458,"b'3, 3324, bannimantap, cv, extension, hindustan, hydraulics, kvm, mysuru,   '",570021
+1459,"b'209, ajmer,   , block, c, cafe, habibi, no,   '",305003
+1460,"b'aligarh, care, child, encalve, hospital, nri,   , rathgawan,   '",202002
+1461,"b'ccuixc04, dec, 202113, 05'",122002
+1462,"b'bhambhan, gujarat, india, botad, enterprise, kaushik,   '",364710
+1463,"b'jai, pune, tapkir, chowk, kalewadi, malhar, medical, thergaon'",411033
+1464,"b'1, 6, bengaluru, c, jalahalli, kendriya, west, no, quarters, staff, vidyalaya'",560015
+1465,"b'nooji, puttur, thenkila, , thenkila'",574201
+1466,"b'31, 5th, at, bellary, buda,   ,   , rayadurg, bus, complex, no, stop,   '",583101
+1467,"b'15, huzur, nh7,   , rewa, subdistrict,   , bypass, new, no, pani, ratahara, tanki'",486001
+1468,"b'cherukavu, malappuram, pulikkal, thayyil, , o, p, pulikkal'",673637
+1469,"b'madari, parangarpar, tarun, dall,   '",735211
+1470,"b'chathedam, panikkassery, puthenvelikkara, thuruthipuram, '",680667
+1471,"b'145, b, district, surat, suryadarshan, city, silent'",394180
+1472,"b'  , thiruvathira, thodupuzha, bhavan, nivas, vyapara'",685584
+1473,"b'b13, fitting, flipkarad, jindal, ltd, midc, tembhurni, office, temburni'",413211
+1474,"b'back, hi, hyderabad, madhapur, avasa, city, hospital, hotel, pace, side, tech'",500081
+1475,"b'akkalkuva, akkalkuwa, moth, rajmohi, taloda'",425415
+1476,"b'at, dist, district,   , raigarh, alibag, mandir, post, raigad, saral, shankar, tel, to'",402201
+1477,"b'alibag, ambepur, at, dist, kusumbale, post, raigad, tal, waghavira'",402108
+1478,"b'at, aurangabad, court, district,   , gangapur, of, panchayat'",431109
+1479,"b'35, a, atladra, beside, bill, canel, having, indra, pratham, reviera,   ,   , temple, vadodara, villa'",391410
+1480,"b'abids, chirag, ganesh, hotel, hyderabad, ali, line,   '",500001
+1481,"b'1, marar, railway, ranchi,   , station'",829117
+1482,"b'23, ethics, beside, h, no, kurnool, infra, office, sakshi'",518218
+1483,"b'517, institute, lucknow,   , no, palace, suraj, balaganj, chauraha, chowk, hous, jal, nigam'",226003
+1484,"b'bahu, bus, district, jhajjar, jholri, stand'",124142
+1485,"b'00, bandivarigudem, district, godavari, ramalayam, west, cell,   , point, ravi,   , teja'",534456
+1486,"b'13, 231, chirala, ramapuram, resorts, seabreeze'",523157
+1487,"b'g, hissar, p, rohtak, saraswati, bypass, jind,   '",124001
+1488,"b'girls, government, high, jari, kondalampatti, kondalampatty, salem, school'",636010
+1489,"b'2, 7, 3, bhalotia, jamshedpur, ltd, pvt, gate, jmt,   , nom, ns, 35, phase, safepack, silicon'",832109
+1490,"b'bari, darbhanga, kathal, kathalbari, diwani, takiya'",846004
+1491,"b'kurukshetra, chakwaliya, dhaba,   , railway,   '",136135
+1492,"b'302, building, chasma, easy,   , gali, gumbajwali, masjid,   , shoes, surat, walk'",395003
+1493,"b'01, kathingra, lucknow'",226101
+1494,"b'2, 533440india, andhra, pradesh, appartmentspeddapuram, atm, axis, bank, floor, b3,   , railway,   , roadsamalkot, samalkot, station, yeleti'",533440
+1495,"b'1539, 25, chandigarh, d, delhi,   , sec'",160014
+1496,"b'begusarai, bholu, hemra, maa, niwas, auto, chowk, spares'",851101
+1497,"b'amancharla, jyothi, podalakur, colony, seva'",524345
+1498,"b'college, dental, elambakathu, green, , kothamangalam, nellikuzhi,   , valley'",686691
+1499,"b'1, 378, delhi, e, greater, kailash, m, new, part, block,   '",110048
+1500,"b'124, 4, 5, barrackpore, kashmir,   '",700119
+1501,"b'delight, hotal,   , udaipur, city, income, office, reti, stand, sub, tax'",313001
+1502,"b'durgapur, maya, bazar, collection, fancy'",713207
+1503,"b'1, 62, , sangaria, tehsil, deengarh, no, vpo'",335063
+1504,"b'755, kisori,   , thane, barua, bunglow, ghodbunder, mobile,   , no, patlipada,   , store'",400607
+1505,"b'ballari, colony, ex,   , serviceman, bazar, belgal, cowl, cross, ex'",583102
+1506,"b'bay, daltonganj, office, r, t, w,   , division, forest, paas,   , sichai, the, vibhag'",822101
+1507,"b'3rd, bangalore, vijayalakshmi, bagalgunte, banglore, clinic, cross, layout,   , sanjeevini'",560073
+1508,"b'100, 57, hanumangarh, new, rajasthan, shiv, bal, by, colony, futu, futy, grah, hmh,   , no, rode, sudhar, word'",335512
+1509,"b'maheshdihi, sundargarh, mandir,   , odisha, sai'",770001
+1510,"b'145, adiya, aswin, bhubaneswar, c, hospital, kalyan, mandap, spur,   '",751016
+1511,"b'alwar, hanuman, sagar, alwer, bank, crecile, k, pass, state, tasrpoart'",301001
+1512,"b'19, 1st, 85, b, chowk, colony, delhi, durga, floor, lightjyoti, main, mandir,   , new, puri, red, shahdara, shop, aggarwal, cormer, no'",110032
+1513,"b'19, 1st, 85, b, chowk, colony, delhi, durga, floor, lightjyoti, main, mandir,   , new, puri, red, shahdara, shop, aggarwal, cormer, no'",110032
+1514,"b'eluru, lalith, vijayawada, down, enterprises, machavaram, neon, plaza,   '",520004
+1515,"b'32, 9, ambajipeta, dr, east, godavari, colony, leeser'",533214
+1516,"b'1, 3k, 404, badlapur, hendre, mohan,   , pada, bharat, college, phase, tulsi, vihar'",421503
+1517,"b'14, 367, andhra, chittoor, india, kainikattu, pradesh, new'",517002
+1518,"b'20, 893, d, delhi, , new, bhajanpura, block, no,   '",110053
+1519,"b'bank, co, complex, ltd, maharaja, peoples, shirpur, the, op'",425405
+1520,"b'college, gajra, gwalior, katora, lashkar, medical, raja,   , savakar, tal, veer'",474009
+1521,"b'palasaur, sahib, taran, tarn, tarn'",143401
+1522,"b'chinchwad, electronics, furnithur, kaspate, pimpri,   , surya, vasti, wakad, electronic,   , shop, town'",411057
+1523,"b'colony, kailash, kendra, mandir,   , sonipat, science, shiv, sidhh, sonipat'",131001
+1524,"b'30e, bari, dolphin, home, kolkata, kustia, masjid,   , nursing, lane'",700039
+1525,"b'district, hsgsbhwhhs, jagatsinghapur, subdistrict'",754104
+1526,"b'junction, market, mobiles, my, nedumangadu, nedumangad'",695541
+1527,"b'1st, 3, a, bardhaman, burnpur, d, block,   , floor, gokuldham, no,   '",713325
+1528,"b'225, dhariwal, gurudwara, rania'",143519
+1529,"b'2, bardhaman, datta, purbasthali, subdistrict, parulia,   , villa'",713513
+1530,"b'oct, 202110, 25, rpridr10'",122002
+1531,"b'3, 5, gaya, kharkhura, new, bhaluahi, colony, gali, kharkhura'",823002
+1533,"b'286, b1, jalandhar, janglad, maqsudhan,   , office,   , chowk'",144008
+1534,"b'22, 36, 9, a, model, tirupati, colony, mangalam, quarters'",517507
+1535,"b'1439, , panipat, sewah, ghar,   , number, panchayat, panipat'",132103
+1536,"b'1026, 20, colony, durga, rohtak'",124001
+1537,"b'64f, kolkata,   , south, topsia'",700046
+1538,"b'daund, main, mayureshwar, computers,   '",413801
+1540,"b'amamdangi, amdangi, darjiling, district, gayaganga'",734426
+1541,"b'22, belpahar, biplab, gumadera, medical, store'",768218
+1542,"b'47, indore, badwali, chouki, indore'",452006
+1543,"b'47, indore, badwali, chouki, indore'",452006
+1544,"b'300, 8, cantt, gothic, hyper, jaipur, loungewala, area, army, city, colony, gate, line, mall, triton'",302012
+1545,"b'4, belghoria, beside, expressway, kolkata, manickpur,   , saradapally, service, of'",700079
+1546,"b'60, 7, a, aaditya, d, gwalior, block, phuta, puram'",474001
+1547,"b'50, begunia, district, khordha, subdistrict'",752062
+1548,"b'deulgram, khanra, raja'",711303
+1549,"b'1, b51, badarpur,   , budh, delhi, new, vihar, cinema, colony, sible'",110044
+1550,"b'306, 9c, bandari, fl, heights, hyderabad, layouts, nizampeta, no,   , sai, sri'",500090
+1551,"b'06, bmp, kanhauli, muzaffarpur, vishundatt'",842001
+1552,"b'29, 34, a, jaipur, kiran,   , mansarover, of, path, school, shipra, umang'",302020
+1553,"b'hospital, koligadda, medak, sai, suresh, chandra, home, nursing'",502110
+1554,"b'chowk, icfai,   , selaqui, shaitan, university'",248011
+1555,"b'197, 5, c, delhi, east, extension, mustafabad, new, north, sadatpur, ext, sadatpur'",110090
+1556,"b'bank, cherthala, kallarakkal, manorama,   , cmc3, federal'",688524
+1557,"b'63, 9, bodiya, district, hills, khammam, konijerla, mukadi, subdistrict, thanda, thanda'",507305
+1558,"b'11, 2, 61, bhimavaram, d, shivaraopeta, beside, no, postoffice'",534202
+1560,"b'district, , thrissur, uppumakkal'",680751
+1561,"b'singh, milkha,   ,   , shoolini, solan, stadium, university'",173229
+1562,"b'1, 13, 1arif, bengal, daspara, india, kolkata, ultadanga, west,   '",700067
+1563,"b'11, bangalore, gas, geetha, graphics, hebbagodi, n, office,   , urban, centre, xerox'",560099
+1564,"b'31, aayat, fasiyarwa, muzaffarpur, chowk, communication, deoriya,   '",843113
+1565,"b'koyilandy, eringathkandy, , koylandy'",673307
+1566,"b'2, 3, 66,   , pin, pithapuram, code, kothapeta'",533450
+1567,"b'district, kozhikode, peralassery, vallikkunnu, , methal'",673019
+1568,"b'1, 44, bangalore, marathahalli, urban, village'",560037
+1569,"b'bsnl, chinchwad, moshi, pimpri, tower'",412105
+1570,"b'jajpur,   , chhak, chinmay, dala, insurance, point, jajpur'",755019
+1571,"b'thaikkoottatgil, thiruvalur, vadakara, meppayil,   '",673104
+1572,"b'  , saligram, saligrama, bus, saligrama'",576225
+1573,"b'hadapsar, pmt, pune, building, depo, hadapsar'",411028
+1574,"b'08, chakradharpur, chandmari,   ,   '",833102
+1575,"b'10, 1, 169, a, kothagudem, area, basthi, hospital, , kothagudem'",507101
+1576,"b'4, kharidhabad, magardahi, no, samastipur,   '",848101
+1577,"b'1, 3, brodipet, business, directory, ggh, guntur, beside'",522004
+1578,"b'1st, computer, dharmshala, market, prakash,   , sanpato, sasaram, floor'",821115
+1579,"b'ixemaa26, nov, 202113, 10'",122002
+1580,"b'401, chittoor, lotus, tummalagunta, checkpost, enclave'",517502
+1581,"b'badri, mahal, main, sehore, chowraha, icchawar,   '",466001
+1583,"b'arda, at, c, jharsuguda, surendra, vedanta, o, po, sahoo'",768202
+1584,"b'chittur, kottapadam, temple, thathamangalam, parakkalam'",678103
+1585,"b'banda, chote, godiya, baba, callcation, gali'",470335
+1586,"b'amdblr10, feb, 202208, 35'",122002
+1587,"b'kodungallur, kuzhikkandathil, pullut, '",680663
+1588,"b'3, dahariya, dham, farm, gokul, haldwani, no'",263139
+1589,"b'bari, digital, garal, jalpaiguri, kahara, kendra, muskan, pmg, para,   , seva, vill'",735132
+1590,"b'363, bhubaneswar, ga, kailash, sailshree, vihar'",751024
+1591,"b'335, jaipur, ricco, area, mamsarover,   , sachivalya, vihar'",302020
+1592,"b'12, 3, 352, bazar, district, khammam, ladak, madhira'",507203
+1593,"b'37, latur, parivar,   , tirtharoop'",413512
+1594,"b'21, 1, allahabad, chaufatka, g, t, pradesh,   , subedarganj, uttar'",211011
+1595,"b'21, 1, allahabad, chaufatka, g, t, pradesh,   , subedarganj, uttar'",211011
+1596,"b'21, 1, allahabad, chaufatka, g, t, pradesh,   , subedarganj, uttar'",211011
+1597,"b'bhiwani, ashram, dinod,   , radha, swami'",127111
+1598,"b'1, 690, devaryamjal, hyderabad, mandal, shamirpet, geethaasaram,   , sai'",501401
+1599,"b'aaradya, hyderabad, registration, boys, hostel, office,   '",500039
+1600,"b'24, b, jiabahal, q, rourkela, colony, no, otto'",770031
+1601,"b'barwani, district, sharma, balsamud, moters, ojhar,   '",451449
+1602,"b'213, gaya, manpur, rewad, toli'",823003
+1603,"b'134, chand, colony, dhanbad, hospital, id, jharia, kuiya, khas,   , new, no'",828111
+1604,"b'madhubani, o1, village, post, saini'",847402
+1605,"b'ramarao, tadepalligudem, vedhasadhan, kokavari, peta,   '",534101
+1606,"b'130, bhiwani, district, kelanga, subdistrict, and, baba, behlamba, by, kalinga, moni,   ,   '",127114
+1607,"b'14, 2, district, east, godavari, kirlampudi, mandal, somavaram'",533435
+1608,"b'eg, east, godavari, clz, master, minds, rajahmundry'",533101
+1609,"b'nov, 202113, 10, pnqdel12'",122002
+1610,"b'deori, district, police, sagar, deori'",470226
+1611,"b'bomjai10, feb, 202207, 55'",122002
+1612,"b'bazaar, bhagyashri, main, pampalner, jewellers, peth,   '",424306
+1613,"b'119, district, gumi, kamrup,   '",781124
+1614,"b'112, chariali, dergaon'",785614
+1615,"b'c, katihar, santoshi, choudhary, colony, driver, o, santosh, tola'",854105
+1616,"b'aircon, area, baikampady, bailkampady, finpower, industrial, ltd, mangaluru, pvt,   , systems, aircon'",575011
+1617,"b'1, baba, birbhum, dakbanglow, fatepur, , lal, mayureswar, mollarpur,   , para,   , salbadra, sandip, sir, s'",731216
+1618,"b'muzaffarpur, shahpur, middle, school'",843113
+1619,"b'lkohyd14, nov, 202106, 15'",122002
+1620,"b'calicut, , kozhikode, kulangarapadam, menon, po, raghava,   , thiruvannur'",673029
+1621,"b'jugnitala, mahatabpur, medinipur, niloy, uma, prassano'",721101
+1622,"b'palwal, arora, corp, palwal'",121102
+1623,"b'1, 40, jagirammapalayam, salem, municipal, primary, salem'",636302
+1624,"b'257, 4th, bangalore, mig, newtown, no, yalahanka, phase, yalahanka'",560064
+1625,"b'127, 7, meerkala, shajapur, bazaar'",465001
+1626,"b'14, district, kombaithottam, tiruppur, back, ctc, side'",641604
+1627,"b'building, company, construction, hotel, jacob, kalipparambil, kochi,   , p,   , rozario, t,   , xavier, s'",682005
+1628,"b'hirapur, kotra, raigarh,   '",496001
+1629,"b'264, district, k, tirupathur, bandarapalli, nekkundhiyan, vattam'",635854
+1630,"b'baratajpur, begampur,   , bank, boroda, notunpara, of, penopara'",712306
+1631,"b'3nethra, dichpally, district, ghanpur, nizamabad, armoor, college,   , office, photography, railway,   , spr, station'",503175
+1632,"b'1775, estate, industrial, jakkasandra, jamia, kumbarpete, malur, masjid,   , sidco, taluk'",563130
+1633,"b'1, 14, 217, 44, 81, beeramguda, colony, hyderabad, raghavendra, vrindavan'",502032
+1634,"b'40, kashipur, kundeswari, dhakia,   '",244713
+1635,"b'barsahi, chauliasole, district, mayurbhanj, subdistrict'",757024
+1636,"b'gazipur, jp, kalaburgi, , s'",585102
+1637,"b'buxidih, giridih,   '",815301
+1638,"b'312, dindori, district, , ryt, soobkhar, no'",481880
+1639,"b'akkulpeta, akulpeta, amadalavalasa, amadalavalasa'",532185
+1640,"b'1257, old, parbhani, pedagan'",431401
+1641,"b'ixebom10, oct, 202114, 20'",122002
+1642,"b'itahar, market, new, churaman'",733128
+1643,"b'11, 5, 886, nizamabad, yellamagutta'",503001
+1644,"b'2, 702, a, bldg, colony, east, ghatkopar, mahadevi, mumbai, no, ramabai,   , sagar, shanti,   , eastern, express, highway'",400075
+1645,"b'183, 5, andhrapradesh, giddaluru, lic,   , office, racharala'",523357
+1646,"b'806001, 81, ayyappa, hyderabad, madhapur,   ,   , cheff, golkonda, main, no, plaza,   , sai,   '",500081
+1647,"b'74, thummalakundu, vadamadurai'",624802
+1648,"b'13, chakapara, colony, e, eastern, liluah, railway,   , rail,   '",711204
+1649,"b'3, seoni, bahubali, chowk, m, no, p, plaza, shop'",480661
+1650,"b'3, seoni, bahubali, chowk, m, no, p, plaza, shop'",480661
+1651,"b'pipula, rohit, vijayawada, bar,   , right,   , side'",520015
+1652,"b'3, 45, prattipadu, government, school'",533430
+1653,"b'3, 45, prattipadu, government, school'",533430
+1654,"b'1, 15, 22, bengaluru, cleveland, frazer, industries,   , robertson, sscane, town, f, ,   , tp'",560005
+1655,"b'allagadda, bbr, bus, care, clinic, complex, kurnool, life, old, physiotherapy, stand, stand'",518543
+1656,"b'asansol, budha, central, co, east, gc, ghosh, kalajharia, main, parbinder, park, rising,   , singh'",713301
+1657,"b'36, 403, a, b, centre, east, gen, gokuldham, goregaon, k, marg, mumbai,   , sanjivani,   , vaidya, wing'",400063
+1658,"b'district, harpur, maa, pusa, ram, samastipur, chowk, computers, kalika, vilash'",848125
+1659,"b'511, district, f, rtpp, subdistrict, ysr, yerraguntla'",516312
+1660,"b'2, branch, dippakayalapadu, jangareddygudem, koyyalagudem, office, post, subdistrict, ramalayam,   '",534312
+1661,"b'1, gali, greater, gurjar, noida, university, colony, no,   '",201310
+1662,"b'ayurveda, chankuvetty, classy, college, furniture, kottakkal, kottakal,   '",676503
+1663,"b'muzaffarpur, rajendrapuri, tirhut, kalambagh, prep, public,   , school'",842001
+1664,"b'bangalore, bank, beside, corporation, developers, antaliea, e, homes, yelahanka, kogillu, masjid, rehman, village,   , vng'",560064
+1665,"b'ii, ongallur, pattambi, royal, arcade'",679303
+1666,"b'8, amguri,   , o, p,   , station, counter,   , no, town,   '",785680
+1667,"b'229, cell, chowk, diamond, sultanpur, city,   , watch'",228001
+1668,"b'13, 180, a, allahabad, himmatganj'",211016
+1669,"b'kollam, revathy, thudayannoor, kadakkal, po, thudayannoor'",691536
+1670,"b'peringathur, valiyandipeedika, aniyaram, , vazhayilpeedikayil'",670672
+1671,"b'asramapadi, edayodil, , pandalam, venmoney'",689509
+1672,"b'15, 2, 20, bhimavaram, pathrla, hospital, london,   , palli, vaari, veedhi'",534201
+1673,"b'district, malappuram, mangalam, thengathakalathil, tirur'",676561
+1674,"b'khammam, khamamm, khamamm'",507001
+1675,"b'hydgoi06, nov, 202119, 35'",122002
+1676,"b'hooghly, paltagarh, singur, shib, singur'",712409
+1677,"b'kayalam, mavoor, post'",673661
+1678,"b'b, brothers, k, kottayam, new, sharma, market,   , vegetable'",686001
+1679,"b'3, 477, 751019, bhubaneswar, colony, dum, hb, l1, no, phase,   '",755023
+1680,"b'1, 10, 220, 3, area, cherlapalli, ecil, hyderabad, industrial, chakripuram, colony, reddy'",500062
+1681,"b'miryalaguda, reddy, sri, back, care, center, colony, dr, hospital, market, more, orthi, sai, side, srinivasararaju'",508207
+1682,"b'1, 124, gurugram, phase, rr,   , udyog, vihar, fashion, number, phase'",122016
+1683,"b'1, 63, kothagudem, bigc, mall, mobiles,   ,   '",507101
+1684,"b'85g, kolkata, kustia, maidan,   ,   , topsia'",700039
+1685,"b'69a, pondicherry, kosapalayam, maistry, no,   '",605013
+1686,"b'cd740, colony, hec, ranchi'",834004
+1687,"b'32, b, faridkot, sethian, ii, mandir, mohalla,   , shiv'",151203
+1688,"b'haripad, dathri, hospital, velenchira, vilayathukalathil'",690531
+1689,"b'2, 389, 5, ghaziabad, mohan, n,   , sec, vasundhra, floor, meakin, nd, public, school'",201012
+1690,"b'79, 8, a, b, c, dindoshi, e, gen, h, jyothi, k, m, marg, mumbai, murugan, store, v, colony, goregaon, hotel,   , no,   '",400065
+1691,"b'kathal, ranchi, and, atm, bank, hdfc, itki, left, more, of,   ,   , sbi, side,   , uco'",834005
+1692,"b'2nd, 474, 9a, bokaro, city, no,   , sector, steel,   '",827009
+1693,"b'ambedkar, kankipadu, lock,   , bomma'",521151
+1694,"b'0, 1, 20, a10, ponnur, sharabbazer'",522124
+1695,"b'138, 2, east, godavari, gajuladoddi, nelayam, u, upada, kottapalli, sai,   '",533447
+1696,"b'200, champa, district, janjgir, jyoti, nh, no, old, route, subdistrict, chowk, lachhanpur'",495671
+1697,"b'3, 43, gp, hyderabad, old,   '",501218
+1698,"b'15, district, jamtara, new, jamtara'",815351
+1699,"b'alappuzha, deepa, hospital, karuvatta'",690517
+1700,"b'alappuzha, deepa, hospital, karuvatta'",690517
+1701,"b'anjali, bashir, beed, bid, chowk, gunj, palace'",431122
+1702,"b'adoor, , o, olickal, p, parakkara, thattayil'",691525
+1703,"b'4th, appartment, ashroy, baghabari, guwahati, floor, path, punjabari, saneki'",781037
+1704,"b'kalamassery,   , bosco, colony, courtase, , kalathiparambil, keetholi, kuttikkattukara, o, p, staff, thazham'",683501
+1705,"b'4, 502b, kozhikode, melakizhkovil, thekkani, kakkodi, makkada, paramb, post, thazham, thekkani'",673611
+1707,"b'01, ghatal, shyamsundarpur'",721211
+1708,"b'bicholim, old, rajlaxmi, stores, market, municipal'",403504
+1709,"b'district, govt, haripuram, iti, kasaragod, po, pullur'",671531
+1710,"b'4flr, ali, bhavya, bhiwandi, bld, kasar, compound, shivam'",421302
+1711,"b'deoghar, kumar, kunda, prafull'",814112
+1712,"b'bus, district, durgi, guntur, mutukuru, stop, lakshmi, mobiles'",522612
+1713,"b'  , chelora, mattannur, mele, valley, chovva,   , view'",670006
+1714,"b'05, chandapur, district, gulbarga, h, pwd, asst, engneering, ex, no, qurters'",585305
+1715,"b'172, district, fatehpur, kheldar'",212601
+1716,"b'325, bhubaneswar, enclave, khandagiri, mig2, satyasai'",751030
+1717,"b'dohanorah, jorhat, kesob, bkhaban'",785001
+1718,"b'amdgau15, nov, 202106, 05'",122002
+1719,"b'haridwar, kashipuri,   , roorkee, roorkee'",247667
+1720,"b'31, 482, boriyankala, lig, new, raipur, block, bord, colony, darbar, housing,   , no,   , sadani'",492015
+1721,"b'bijnor, myntra,   , ambey, cinema, colony, office, sajan, vihar'",246701
+1723,"b'1234, jbn,   , raipur,   '",492013
+1724,"b'bhagalpur, kathalbari, tilkamanjhi, barikhanjarpur, kalisthan, kathalbari'",812001
+1725,"b'1, 23, a, chengalpattu, cheyyur, district, eswaran, koil'",603302
+1726,"b'barosha, district, east, godavari, kendram,   , rbk, rithu, yenugupalli, yetugattu, bank, k,   '",533240
+1727,"b'chitrakoot, bazar, chauraha, devi, eidgah, kali,   , purani'",210205
+1729,"b'93a, edakkode, attingal'",695104
+1730,"b'16, abc, ff, lucknow, quinton, complex,   '",226001
+1731,"b'109, kolkata, lal, club, masjid,   , sporting, taj'",700039
+1732,"b'1, 36, district, khammam, rafi, sc, c, colony, konijerla, potti, s, star'",507305
+1733,"b'ambassa, ambassaa, sarkar, villa, bazar, club, mangal, of,   , palli'",799289
+1734,"b'3, 57, district, godavari, mortha, west, main,   '",534216
+1735,"b'goiixc29, oct, 202119, 00'",122002
+1736,"b'chemmad, english, khuthubu, medium, tirurangadi, zzaman'",676306
+1737,"b'dr, hamirpur, hospital, rkgmc'",177001
+1738,"b'705, colony, dum, hl, kolkata, motilal, rajbari'",700081
+1739,"b'district, ho, po, palakkad, santhipurath, vallapuzha, chungapulav, kcmup, kuruvattor'",679336
+1740,"b'kurnool, hyderbad,   , old, pullur,   , skanda'",518003
+1741,"b'37, bettiah, koeri, madir,   , no, shiv, tola'",845438
+1742,"b'sai, sathupally, balaji, look, new,   , sathupally'",507303
+1743,"b'oct, 202107, 55, tirhyd24'",122002
+1744,"b'71, delhi, gurmandi, new, rajpura, t'",110007
+1745,"b'chilka, district, medinipur, o, p, panskura, paschim, purba, s, vill'",721647
+1746,"b'care, clinic, eye, kochi, vision, vyttila, building, care'",682019
+1747,"b'86, gokulpura, jaipur, jhotwara, karni, no,   , vatika'",302012
+1748,"b'2a, 368, 3rd, d, east, gali, h, no, north, pusta, sonia, vihar'",110094
+1749,"b'all, kotamitta, nellore, in, masjid, mobile,   '",524001
+1750,"b'1st, 5, 5th, bangalore, block, hsr, koramangala, layout, sector, urban'",560034
+1751,"b'bhandar, chhachhrauli, gate, main,   , police, pustak, saini, school, station,   '",135103
+1752,"b'1, 100, 3, district, gaddipally, suryapet'",508201
+1753,"b'11, district,   , subdistrict, tirupathur, no'",635651
+1754,"b'6, gopalpur, jeevan, po, pusa, samastipur, thahra, jyoti, no, of, state, thatra, tubewell, vill,   , west'",848115
+1755,"b'036, 29, 3, area, bus, depot, development, hyderabad, industrial, jeedimetla, phase, nilayam, sai, sri'",500055
+1756,"b'aurangabad, borude, furniture, gao, kamlapur,   ,   ,   '",431133
+1757,"b'kishangarh, maliyon, bada, choti, city, hathai, ka, ke, mohalla, new'",305802
+1758,"b'8, 200, agra, bhogipura, city, hut, mobile, nr, optical, shahganj'",282010
+1759,"b'a, ram, shrirampur, avtar, main,   , tex'",413709
+1760,"b'bolidapukur, district, farakka, murshidabad, subdistrict'",742202
+1761,"b'district, , koruthodu, kottayam, pichalakattu, gramapanchayath'",686513
+1762,"b'high, khammam, school, winfield, mamatha, oasis,   ,   '",507001
+1765,"b'0786, aqua, district, mohol, solapur, subdistrict, javal, lamboti,   , shirapur, so, swraj'",413213
+1766,"b'1, 11, 182, chunchupalli, colony, h, kothagudem, mandal, no, venkateswara'",507101
+1767,"b'14, 2, bus, district, julkal, sangareddy, stop, subdistrict'",502285
+1768,"b'bazar, guruduwara, marwari,   , readymade, samastipur, shahzada, samastipur'",848101
+1769,"b'bankura, district, onda, punisole, subdistrict, upardanga, masjid'",722152
+1770,"b'district, kotha, peda, ysr, madhavaram,   '",516213
+1771,"b'broking, karvy, limited, mohalla, shekhpura, sikar, stock, sikar'",332001
+1772,"b'c, jodhpur, juice, ras,   , sardarpura'",342001
+1773,"b'ausa, sai, bear, mod, shop'",413520
+1774,"b'chadayamangalam, edackodu, kollam, sree, bhavan, dhanya, po'",691534
+1775,"b'sumerpur, battery,   , shakti, sheoganjh, sumerpur'",306902
+1776,"b'17, 1st, 30, cesc, kolkata, by, counter, kumarpara, lane, mahajati, office, party'",700030
+1777,"b'1, 5, 958, adityapur,   , jamshedpur, colony, manjhi, no,   , tola, tripurari,   '",831013
+1778,"b'rtc, secunderabad, thumkunta, colony, district, mandal, medchal, shamripeet, village'",500078
+1779,"b'jaunpur, kachari, no, jalpan,   , tripti'",222002
+1780,"b'979, clinic,   , pallapatti,   , siva, thiruthangal, thiruvallur, colony'",626130
+1781,"b'2, 43, colony, kpn, tiruppur, valipalayam, nd,   '",641601
+1782,"b'36, aakriti, hills, hyderabad, jubilee, ltd, number, pvt,   , venkatagiri, and, constructions, developers'",500033
+1783,"b'danta, icici, khorandi, bank, khorandi'",332702
+1784,"b'13, 26, 45, 1, bhimavaram, hospital, mission,   '",534201
+1785,"b'1, district, gajapati, haddubhangi, haddubhangi'",761208
+1786,"b'bareli, khaspari, lakshya, mil, rae, amawan, area, jan, kendra, raebareli,   '",229001
+1787,"b'12, dharapuram, tirupur, venkatachalapathi, button, kaja, perchipalayam,   '",641608
+1788,"b'alwar, district, khojaka, ramgarh, subdistrict'",301025
+1789,"b'244922, district, paigambarpur, rampur, shahabad, subdistrict'",244001
+1790,"b'10, kavali, , mill, number, oil, pet, ram, ramoorthy, singh,   '",524201
+1791,"b'dist, murshidabad, high, madrasah,   , po, kolan, ps, ranitala, pur, rk, rk'",742123
+1792,"b'dist, murshidabad, high, madrasah,   , po, kolan, ps, ranitala, pur, rk, rk'",742123
+1793,"b'18, building, katihar, sirsa, vastu, no, simplex, site, vihar'",854105
+1794,"b'1st, 864, a, bengaluru, dasarahalli, t, coconut, cross, garden'",560057
+1795,"b'34, complex, harun, offset, pallivasal, pettai, printers, rahmania'",627004
+1796,"b'cculko16, mar, 202213, 30'",122002
+1797,"b'feb, 202214, 30, goihyd26'",122002
+1798,"b'hccbpl, hindustan, ltd, pvt, pirangut, bevreges, coca, ltd'",412115
+1799,"b'2, bhadrak, district, jamjodi, subdistrict, tihidi'",756131
+1800,"b'241, baapu, udaipur, bazzaaar'",313001
+1801,"b'dharamapuri, dharmapuri, dt, thangamarathupattidharamapuri, venkataptti, op'",636701
+1802,"b'chittaurgarh, district, aagriya, begun, chok, ka'",312023
+1803,"b'bangai, bazar, gorakhpur, gorakhpur'",273013
+1804,"b'26, 31, andhra, india, pradesh, rayachoti, rayachoty, alimabad,   '",516269
+1805,"b'00, city, gangapur, riya, hospital'",322201
+1806,"b'bahadurganj, dighalbank, harwadanga, bazar'",855101
+1807,"b'42bagade, chakan, kuruli, petrolium, pune, sadguru, vastii'",410501
+1808,"b'bangalore, hosakote, subdistrict, thirumala, aspino, building, cross, halli,   , shetty, soukya'",560067
+1809,"b'2nd, bn, jharsuguda, osap, children,   '",768204
+1810,"b'edappal, fincorp, , muthoot, pulikkal, laila, veliyancode, veliyancode'",679579
+1811,"b'73, mathura, shop, vikas, bajar'",281001
+1812,"b'district,   , hospital, in, maa, main, motors, of, pratapganj,   , supaul, pratapganj'",852125
+1813,"b'bhagawangola, district, i, mahisasthali, murshidabad'",742135
+1815,"b'2, begusarai, in, mahmadpur, diamond,   , of, petrol, pump'",851101
+1816,"b'bandhan, bank, barpathar, borpother, bank'",785602
+1817,"b'aligarh, b20, dhanipur, mandi,   , city, sindhauli'",202002
+1818,"b'3, district, idar, kantha, prajapati, santol, sabar, vas, sabarkantha'",383225
+1819,"b'korba, maa, mahamaya, bazaar, budhwari, traders'",495689
+1820,"b'bela,   , pratapgarh, vasudev, budhiya, dahilamau, devi, kuti, mandir, pratapgarh'",230001
+1821,"b'in, punjab, d8, 473, gali, ho, no, inder, khalsa, kot, 8'",143001
+1822,"b'care, district, g, guntur, ap, dt, m, n, p, palem, papalem, school'",522329
+1823,"b'gst, hotgi, office,   , solapur'",413003
+1824,"b'coke, haldia, met,   , patti, tata, gate, kali, kalipatti, steel'",721605
+1825,"b'mattannur, mission, hospital,   ,   '",670702
+1826,"b'4, 6, 76, allagadda, district, kurnool, mandal, new, machine'",518543
+1827,"b'bhadradri, e, kothagudem, hub, kart, kothagudem'",507101
+1828,"b'196, bhawani, ganj, lucknow'",226003
+1829,"b'bihar, district, gridhari, koch, sitai, bazar'",736167
+1830,"b'1, 204, district, guntur, ramachandrapuram'",522303
+1831,"b'pune, samta, colony, fortune, hospital, kalewadi, link, rahatani,   '",411017
+1832,"b'at, barh, complex, kali, maa,   '",803214
+1833,"b'district, rajkiya, ramaiya, samastipur, madhya, mandir,   , shiv'",848502
+1834,"b'120, bokaro, mukesh, basti, cmapi, gola, kumar, lsjfsfsfsjf, main,   , peterwar,   '",829123
+1835,"b'24, a, amlidih, h, joseph, no, of, raipur, school, sec, sr, st, town,   '",492006
+1836,"b'413709, gavthan, jafrabad, shrirampur'",413725
+1837,"b'1667, a, jamnipali, kaveri, korba, ntpc, clob,   , pragti, township, vihar'",495450
+1838,"b'hathoura, kheda, shahjahanpur, bujurg, gaushiya, maszid,   , stadium'",242001
+1839,"b'delhi, new, b245, dream, land, men, no3, prem, saloon, shiv,   , vihar'",110094
+1840,"b'1, 13, 6, bellampalle, basthi, bellampalli, bellampally, hanuaman, mancherial'",504251
+1841,"b'bengaluru, doddaballapur, kamal, enterprises'",561203
+1842,"b'makum, dukan, lohari,   , nitai'",786170
+1843,"b'42b, kolkata, lal, bazer, chata, gali, i, wala'",700012
+1844,"b'buddha, kalimpong, upper, echhey, goan, park, sherpa'",734301
+1845,"b'142, 2, ankita, bareilly, gas, indane, shahjahanpur, awas, mode, service'",242001
+1846,"b'2, 61, dt, kumar, puduppai, tirupur, vellakoil, vellakovil, w, o, po, satheesh'",638111
+1847,"b'mawai, mughalsarai,   , chandauli, ji, kali, khurd, mandir, mughal, sarai'",232101
+1848,"b'pilibhit, bisalpur, bus, mi, old, stand, store'",262001
+1849,"b'budge, vill, achipur, kol, o, p, rajarampur'",700138
+1850,"b'amrai, bengal, danga, durgapur, g, 23, in, kururia, milan, p, o, pally, west'",713203
+1851,"b'302, arjun, enclave, jamshedpur, mango, new, purulia,   '",831012
+1852,"b'balraksha, bhavan, child, district, kamareddy,   , priya, protection,   , unit, talkies'",503111
+1853,"b'district, hardwar, sherpur, hardware, roorkee'",247667
+1854,"b'12, 17, 4, club, colony,   , indira, no, ponnur,   , rotary'",522124
+1855,"b'22, b, dombivali, govind, gupte, joshi,   ,   , wadi, west'",421202
+1856,"b'401, ansari,   , arcade, bhiwandi, fareed, floor, fourth, khandu, masjid,   , no,   , pada,   , tayyab'",421302
+1857,"b'239, 28, civil, colony, jabalpur, lines, railway,   , station, tagore, colony'",482001
+1858,"b'13, 180, gilbert, hill, masjid, mubarak, mumbai,   '",400058
+1859,"b'13, 4, delhi, in, subha1, 11218, gali, no, park, shahdara, subhash'",110032
+1860,"b'301, 394111, akshar, cng, dewarshi, kim, olpad, palod, char, complex, computer,   , pump, rasta'",394110
+1861,"b'kozhikode, puthan, puthiyara, , purakkal,   '",673004
+1862,"b'delgau15, dec, 202115, 30'",122002
+1863,"b'43, fatema, hos, shrirampur, husing, no, sosayti'",413709
+1864,"b'aundh, baner, colony, dp, nest, pg, pune,   , sarvics, the, vidhata, wireless, wasti'",411007
+1865,"b'803, a2,   ,   , rajasthan, vapi, bhawan, bldg, lake, no, paradise, vapi'",396195
+1866,"b'118, baddiha, double, giridih, transformers, , gate, in, just, lane, steel, the'",815301
+1867,"b'202, 2nd, floor, galaxy, hriteg,   , surat, unn, no, patiya'",394210
+1868,"b'at, jagatsinghapur, jaipur, po'",754133
+1869,"b'blrbom27, dec, 202109, 30'",122002
+1871,"b'area, bankura, bishnupur, district,   , station, petrol, pump'",722122
+1872,"b'102, e,   , khetrajpur, sambalpur, shyam, vatika, no'",768003
+1873,"b'70, d, bengal, h, 2, kolkata,   , tiljala, west'",700046
+1874,"b'darbhanga, urdu, bajar, factory, jabar, kaju, ke, pass'",846004
+1875,"b'5068, delhi, new, paharganj, bazzar, main'",110055
+1876,"b'1, 2, 20, 6, college, d, junior, kovvur, yuvaraj, cable,   , no'",534350
+1878,"b'1, 2, 41, district, godavari, venkatramapuram, west, distrct, , mandal, no, west'",534320
+1879,"b'baganbari, barborisha, kolaghat, medinipur'",721134
+1881,"b'5, 8, 91, mallaram, vemulawada,   , vemulawada'",505302
+1882,"b'bhoor, bulandshahr, kamalpur, village, chouraha, meerut,   '",203001
+1883,"b'452, indore, s, silicon, city, ganesh, mandir,   , pratham'",452001
+1884,"b'18, a, aloysius, bhusawal, colony, convent, high,   , no, postal, q,   , school, st, yawal'",425201
+1885,"b'18, a, aloysius, bhusawal, colony, convent, high,   , no, postal, q,   , school, st, yawal'",425201
+1886,"b'201, 2nd,   , postman, rabodi, thane, west'",400601
+1887,"b'anekal, bengaluru, bus, dommasandra, kamalakar, stop, taluka'",562125
+1888,"b'2, 3rd, 74,   , rajyalakshmi, ramalayam, residency, tadigadapa, vijayawada, floor'",521137
+1889,"b'90, m, n, trichy, balaji, illam, samspiran, silks,   '",620008
+1890,"b'dharmavaram, putlamma, temple, nesepeta, temple'",515671
+1891,"b'21, 7, godhra, hayat, masjid, masum, ni,   '",389001
+1892,"b'alappuzha, cherthala, kanjikkuzhi, kanyakumari, marrarikulam, police,   , s, salem, station, subdistrict, thoppilchira, l, o, p, puram'",688523
+1893,"b'hydbbi05, nov, 202107, 25'",122002
+1894,"b'1, 99, colony, district, kandukur, palukur, prakasam, sc, subdistrict'",523101
+1895,"b'4, 9, chellancherry, cuddalore, district, embalam, kambilikaran, kuppam, nettapakkam, no, post, via'",605106
+1896,"b'255, 2a, gobichettipalayam, vettaikaran, garments, kovil, modachur,   , scm'",638476
+1897,"b'454a, 6, a1, delhi, new, rohini, sector, sector'",110085
+1898,"b'454a, 6, a1, delhi, new, rohini, sector, sector'",110085
+1899,"b'2, 31, jammikunta, konduri, complex'",505122
+1900,"b'khunti, main, piaggio, pipra,   , showroom'",835210
+1901,"b'203, dullapally,   , gangastan, gangasthan, ranga, reddy, surabhi, venture,   '",500100
+1902,"b'alkapuri, b1,   , masibari, new, pundag, ranchi, saikripa,   , no'",834002
+1903,"b'1, alpha, block, c, c332, greater, noida,   , in,   , of'",201308
+1904,"b'19, 3, 70, arakala, baba,   , parvathipuram, sai,   , temple'",535501
+1905,"b'bomdbr04, may, 202211, 20'",122002
+1906,"b'378, kulaththumedu, polur, venmani'",606803
+1907,"b'1, baran, choraha, hind,   , shergarh, store, badora, khanpur, medical'",325223
+1908,"b'bengaluru, hosur, phc, attibele,   '",562107
+1909,"b'angamvetty, cherakkara, thodupuzha, , puthupariyaram'",685608
+1910,"b'bijapur, pahadkhan, chaowk, complex, hakeem, masjid'",586101
+1911,"b'10, at, bhubaneshwar, giris, kalinga, post, chhk, ghatikia, lane,   , no, stuio, vihar'",751029
+1913,"b'ambedkar, chowk, daund, main,   '",413801
+1914,"b'bhole, hotel, jay, kadi, untva, higve, kadi'",382715
+1915,"b'25, 4, 50, 8674467, colony, hyderabad, kotedhan, section, shivarampally, weaker'",500052
+1916,"b'1408, 2, chandigarh,   , mandir, phase, ramdarbar, shiv'",160002
+1917,"b'hyddel13, nov, 202113, 00'",122002
+1918,"b'1, 15, bus, hyderabad, kishtaipalli, kistaipally, stop, chandraiah, hanuman,   , temple'",502319
+1919,"b'shivpuri, neelghar, purani, shivpuri'",473551
+1920,"b'1, 99, h, kothagudem, no, old, area, hospital, kothagudem'",507101
+1921,"b'3, aurangabad, mgm, beside, canteen, college, gate, medical, no, sports'",431001
+1922,"b'735, 963, bhubaneswar,   ,   , tamando, college, no'",752054
+1923,"b'15a, ashok, basti, bhatia, goswami, h, jamshedpur, kadma, no, path, uliyan'",831005
+1924,"b'1, 22, 491, dum, kolkata, purba, sinthi, south'",700030
+1925,"b'himchikha, pinjore, panchkula'",133301
+1926,"b'purnia, chok, chori, madhubani'",854301
+1927,"b'buchi, buchireddy, district, nellore, potti, sri, sriramulu, mandalam, palem'",524305
+1928,"b'itamati, purusottampur, chhaka'",752068
+1929,"b'district, srikakulam, vaddangi, sachivalayam'",532456
+1930,"b'1, deopar, mahamadpur,   , samastipur, chowk, hanuman, makkhu, mandir, pusa'",848125
+1931,"b'1020, e, g, garh, gobind, gobindgarh, jalandhar, mandir, mohalla, sharan, shiv'",144001
+1932,"b'champaran, district, purbi, turkaulia, bsnl, tower'",845437
+1933,"b'mumbai, nitie, colleges, engineering, gate'",400087
+1934,"b'18, a1car, hojai, accessories, market'",782435
+1935,"b'3687dhangrawaad, bharuch, mundafalia'",392001
+1937,"b'1, 6, belighata, kolkata, lane, shibtala, kolkata'",700015
+1938,"b'a31, beheramal, jharsuguda, amit, indian,   , oil, pump, villa'",768203
+1939,"b'911, , jind, safidon, subdistrict, no'",126113
+1940,"b'chikan, colony, lda, lucknow, my, palace, sambharkhera, sonkadi, plaza'",226012
+1941,"b'hanumangarh, hospital,   , rita, sethi'",335513
+1942,"b'district, etah, sarai, aghat, etah'",207250
+1943,"b'224, mehsaul, sitamarhi, masjid, rahmania'",843302
+1944,"b'dhilwan, distt, mansurwal, odhilwan, p, pin, vill, bet, kapurthala'",144804
+1945,"b'shirpur, hotel, ke,   , pass, patleshwar,   , shirpur'",425405
+1946,"b'shirpur, hotel, ke,   , pass, patleshwar,   , shirpur'",425405
+1947,"b'boraj, dhani, jaipur, mangal, ghar, ji, ka, siyak'",303328
+1948,"b'cement, f, 1, 8, kachchh, plant, sanghi, sanghipuram, township'",370511
+1949,"b'malegaon, bank, gav, june, maharashtra, nimgaon, of'",423212
+1950,"b'bahadurpur, darbhanga, district, sudha, ughara, chook, milk, panshiha, parlour'",847101
+1951,"b'1, 101, 4, district, east, godavari, main, ramalayam, alamuru, chintaluru, mandalam,   ,   '",533232
+1952,"b'district, east, godavari, mee, nehru, back, colony, seva, side'",533435
+1953,"b'gulvadi, kundapura, dam'",576211
+1954,"b'arundhati, bhubaneshwar, lewis, bikes, moto,   , niwas, pantha'",751014
+1955,"b'baria, devgadh, district, dohad,   ,   , patel, post, sutharwada, dairy, office'",389380
+1956,"b'6, ktps, palwancha, plant'",507115
+1957,"b'31, 502279, 8, chilla, dist,   , medak, mandal, mulugu, sagar, siddipet'",502312
+1958,"b'alwar, district, siyakhoh, vill, bass, mainpur, mundawar, siyakhoh'",301407
+1959,"b'baben, bardoli, platinum, village, d402, homes, platinum'",394601
+1960,"b'anugul, cheliapada, royal, sports'",759122
+1961,"b'chatragaddapadu, gagineni, vinukonda, college, degree, kalyani, vinukonda'",522647
+1962,"b'andhrapradesh, district, rayachoty, ysr, distic, kadapa, lakkireddy, palli,   '",516257
+1963,"b'2, 4, ashok, haldwani, , o, r,   , t, number, phase, vihar'",263139
+1964,"b'45, 46, 47, automotives, garisa, kadapa, hut'",516001
+1965,"b'61, bhatapara, jio, hind, hottel, jay, ke, mobile, samne'",493118
+1966,"b'baramati, district, nivas, pandre, pune, raghavendra, subdistrict'",413110
+1967,"b'enterprices, maddur, old, veeranjaneya, c, m,   '",571428
+1968,"b'gandhi,   , saharanpur, arbi, coloney, madarsa'",247001
+1969,"b'5, 83, kolkata, no, taratala, block, get, mandir, no'",700088
+1970,"b'assisi, kochi,   , ahiphizhi, by, church, john, marg, mundamveli, paul, riad,   '",682507
+1971,"b'133, ambedkar, ambur, kailasagiri, board, koovil, sathambakkam,   '",635808
+1972,"b'21, madelipada, neherubangala, paradip, paradip'",754143
+1973,"b'10, 302, 9, a, char, complex, dreamland, enclave, heights, helly, kuber, manjalpur, main, pramukh, prashad, rasta,   , vadodra'",390011
+1974,"b'bahraich,   , pani, pet, bank, beside, indian, indira,   , overseas, palace,   , sneh, stadium, tanki, utsav, world'",271801
+1975,"b'chhabra, chipa, idgah, juned, barod, coraha, ripears,   , tyre'",325220
+1976,"b'district, sehore, sonda, subdistrict'",466113
+1977,"b'111, district, pune, vikaswadi, mahalunge, padwal, vikaswadi'",410515
+1978,"b'altee, bharuch, mobile, 1, station, supermarket, ambedkar, center,   ,   '",392001
+1979,"b'muthoot, pala, palai, building'",686575
+1980,"b'gadwal, jaikisan, maldakal, center'",509125
+1981,"b'4, galaxy, hotel, marg, mukta, mumbai,   ,   , sai, subha, darshan, no, phadke,   , ns'",400069
+1982,"b'4, galaxy, hotel, marg, mukta, mumbai,   ,   , sai, subha, darshan, no, phadke,   , ns'",400069
+1983,"b'bardhaman, district, e786, purba, sk, para'",713141
+1984,"b'1, 37a, enclave, f222, gurugram, saraswati, sector'",122004
+1985,"b'chengalpattu, appur, jothi, tails'",603204
+1986,"b'gaya, shaheed, bank, icici, motors, of,   ,   '",823001
+1987,"b'dec, 202110, 05, maacmb21'",122002
+1988,"b'nedumangad, bhavan, chudukattinmukal, poovathoor, vishnu'",695561
+1989,"b'211, bahraich, h, kazipura, qazipura, no, north'",271801
+1990,"b'0, daltonganj, jagdamba,   , station, enterprises, paani,   , tanki'",822101
+1991,"b'1, 11, balaji, colony, dabhade, f, indrayani, lane, mandir, number, talegaon, no, residency, s, vidya'",410507
+1992,"b'aug, 202111, 45, blrbbi30'",122002
+1993,"b'19, 5, and, bank, choutuppal, district, in,   , office, panthangi, sbi, sub'",508252
+1994,"b'baliapur, india, jharkhand, jholadih, sunder, chawk'",828201
+1995,"b'khargone, khudgoan, post, rehgaon'",451335
+1996,"b'12, 3rd, banjara, dgs, hyderabad, shiva, floor, hills, no,   , services, shakthi, technical, towers'",500034
+1997,"b'126, 9, a, palvati, vazhapadi, vellalgudam, apocit, d, mohanraj, school,   '",636111
+1998,"b'forest, paralakhemundi, gate'",761200
+1999,"b'baleshwar, daula, deula, district, hat'",756036
+2000,"b'14, aeren, chandigarh, it, no, park,   , solution'",160101
+2001,"b'301, 3rd, bengaluru, sai, agrahara, floor, konen, main, residency,   '",560016
+2002,"b'4, 502, a, aldea, annexo, hotel, mahalunge, orchid, phase, pune, puraniks, wing'",411045
+2003,"b'602, d, mumbai, nirman, , marg, palace, pump, rj'",400093
+2004,"b'nov, 202115, 50, udrhyd19'",122002
+2005,"b'1, 90, d, dakkili, district, mandal,   , nellore, post, potti, sri, sriramulu, swami, temple, vaddipalli, vembuluru, venkateswara, by'",524134
+2006,"b'903,   , park, pune,   , no, titanium'",411057
+2007,"b'732, d5, faridabad, katan, pahari, '",121009
+2008,"b'1, 3, 44, ahmedabad, vatva, b,   , gamdi, new,   , shaan, vatva'",382440
+2009,"b'110, 112, back, cgc, city, , landran, mohali, rkm, sec, collage, no, of, side'",140307
+2010,"b'104, aarastu, cancer, hills, hospital, hotel, hyderab, hyderabad, inn, kindha, lakadikapul, nelofur, no,   , reception, red,   ,   , treebo, treeboo, trip, icheyandi, lo, nenu, problem'",500004
+2011,"b'amritsar, dairy, gate, hakima,   , pandit'",143001
+2013,"b'2, no, puducherry, thilaspet, saibaba,   '",605009
+2014,"b'bus, old, savarkundla, stop, under, ambika, hotel'",364515
+2015,"b'169, balachaur, gahoon, h, n'",144521
+2016,"b'ashram, fatehabad, mandir,   ,   , sanyas'",125050
+2017,"b'123, main, nellikuppam, rk,   , van,   , stand, tronics'",607105
+2018,"b'300, faridabad, chowk, colony, jawahar,   , nit, s, saran'",121001
+2019,"b'1, 1st, 232, jaipur, murlipura,   ,   , shiv, negar, no,   '",302039
+2020,"b'33, athouli, gandhwan, jaswinder, phagwara, ram, ravidas,   , gurudwara,   , vill'",144402
+2021,"b'24, 25, b, chakan, engineering, iii, ltd, midc, mahalunge, varroc'",410501
+2022,"b'musiri, amman, kamatchipatty, temple'",621217
+2023,"b'musiri, amman, kamatchipatty, temple'",621217
+2025,"b'8969580163, beside, dhanraj, deoghar, jatahi, more, residency, town, williams'",814112
+2026,"b'dudu, duduvroad, ganesh, k, malpura, market, masala, n,   , shoap'",304502
+2027,"b'dudu, duduvroad, ganesh, k, malpura, market, masala, n,   , shoap'",304502
+2028,"b'dalmia, district, misrikh, sitapur, subdistrict, bharati, hardoi, industry, ltd, ramgarh, sugar, tehsil'",261403
+2029,"b'13, 411patti, bagphat, baraut, disst, up, choudhran,   , saharanpur'",250611
+2030,"b'18, agra, sadar, bachoomal, bajar,   , sadar'",282001
+2031,"b'1, 50, 54, hyderabad, gopan, govt, h, m, no, pally, ranga, reddy, school, serilingam, v'",500046
+2032,"b'1403, 7009212745, amritsar,   , kot, phone, sohan, avenue, khalsa, number'",143002
+2033,"b'117, 3, district,   , rudrakshapalli, khammam, main,   '",507303
+2034,"b'266, 6, 8142424265, district, kurnool, terubazar'",518346
+2035,"b'38, chatri, g, garoth, chowk, mohalla'",458880
+2037,"b'581396, karwar, main, ameen, chicken, code, kadra,   , pin, shop'",581301
+2038,"b'bairagai, gumla, , manit, bagan, chaha'",835207
+2039,"b'1, 37, district, etcherla, srikakulam, bhagiradhi, mandal, puram'",532408
+2040,"b'72, area, huralagere, industrial, malur'",563160
+2041,"b'11g, bagan, entally, kolkata,   , tanti'",700014
+2042,"b'02, chiplun, golden, parishad, pethmap, primary,   , school, urdu, zilla, no, view'",415605
+2043,"b'dhal, district, jajapur, panikoili, sathipur, subdistrict, medicine, store'",755025
+2044,"b'15, 213, lucknow, chhanchi, g, hanuman, k, ke, kuwa, m, mandir,   , pass, thateri, tola'",226003
+2045,"b'pali, tahseel, office'",495449
+2046,"b'2, 9, gali, rishikesh,   , chauhan, mitra,   , no, point, vihar, wedding'",249201
+2047,"b'district, jadhav, lakhan, post, solapur, puluj,   , vite'",413304
+2048,"b'3, 4, 47, 5th, 94, delhi, g, new, sonia, gali, lovely,   , no, pusta, vatika'",110094
+2049,"b'district, kukarmunda, masjid, tapi, chowk, masjid'",394380
+2050,"b'at, chandrapur, ghuguss, ltd, mahakali, midc, polytex, pvt,   '",442406
+2051,"b'district, east, godavari, mukteswaram, siri, studio'",533211
+2052,"b'280, annur, annurmettepalayam, main, pattarai, po,   '",641653
+2053,"b'34f, santhaiyadi, udangudi,   '",628203
+2054,"b'102, bhangel, city, dadri, main, noida, life, mall,   ,   '",201304
+2055,"b'3, 75, dhani, kotputli, no, uddawala,   , ki'",303108
+2056,"b'711401, b, dist, gobindapur, howrah, islampur, j,   , o, p, pur, s, vill, kali, mobdir'",711414
+2057,"b'bajaj, district, gandhi, mahua, vaishali, chok, market,   , pull'",844122
+2058,"b'alwar, lishoda,   , bus, kuan, stand, wala'",301001
+2059,"b'bridge, building, bypass, kerala, kozhikode, learning, limited, private, thondayad, view, xylem, learningxylem'",673016
+2061,"b'chinchwad, mayur, mumbai, pimpri, center, pun,   , trade'",411019
+2062,"b'299, 3, belagal, burandoddi, c, district, kurnool'",518462
+2063,"b'mohammadpur, pradesh, shahjahanpur, uttar, accessories, and, guladiya, mobile,   , shop'",242221
+2064,"b'ambalipura, bengaluru, ground, colorbar, cosmetic, floor, haralur, mall, market,   , sarjapur, square'",560103
+2065,"b'19, bhabua, bhagirathi,   ,   , no, places'",821101
+2066,"b'hydmyq25, nov, 202113, 15'",122002
+2067,"b'barh, bhatgoan, durga, mandir,   ,   '",803213
+2068,"b'478, district, eastern, expressway, ghaziabad, h, peripheral, subdistrict, no'",201015
+2069,"b'131, akhuapada, bhadrak'",756122
+2070,"b'bhadrak, new, asirvad, india, office, pur, sahibasudev'",756125
+2071,"b'754100, cuttack, kandarpur, cuttack'",754005
+2072,"b'247, 248, a1, appartments, dda, delhi, flats, new, sarti, sirsaspur'",110042
+2073,"b'neharu, shivamogga, videotronix,   '",577201
+2074,"b'139, apc, bally, ghosh, palpara, para, sarani'",711227
+2075,"b'289, colony, gulmohar, park,   , ranga, reddy,   , no'",500019
+2076,"b'11, 2, 40, kodigattu, palacole'",534260
+2077,"b'a1, aditi, alandi, district, khed, pune,   , subdistrict, chicken, shop'",412105
+2078,"b'bag, bharat, bilaspur, farm, , protein,   , telipara'",495001
+2079,"b'1, district, pateliya, samastipur, bhibutipur'",848211
+2080,"b'ambad, bus, st, stand, stand'",431204
+2081,"b'centre, growth, hamirgarh, kanya, nitin, riico, choraha, kheri, spiners'",311025
+2082,"b'10, 1a, batla, chowk, delhi, fatima, , new, pahalwan, s, extn, jogabai,   , public, school'",110025
+2083,"b'bhutan, deals,   , satali, uttar, your'",735215
+2084,"b'2, haileymandi,   , chaki,   , gurgaon, haily, in, mandi, munsi, no, of, todapur, wala'",122504
+2085,"b'community, hyderabad, medical, beside, galli, hall, pandu, shop'",500018
+2086,"b'raipur, chowk, katora,   ,   , raipyr, talab'",492001
+2087,"b'chakirevumeraka, district, east, godavari, kajuluru, andhra, dt, kajuluru'",533468
+2088,"b'chalisgaon, singanl, chalisgoan, point'",424101
+2089,"b'202, bengaluru, ckb, eat,   , homes, layout, marathahalli, munnekolala, restarent, smart, venkateswara, well,   , no'",560037
+2090,"b'bakshi,   , colony, defence, ka, lucknow, rudahi, talab, primary, school'",226201
+2091,"b'mahadeva, siwan, salempur, couching, phonestic, siwan'",841226
+2092,"b'232c, 36, colony, gutta, h, hyderabad, jagathgiri, rp, no'",500037
+2093,"b'160, kamala, kothur, survey, biscuits, care, company, consumer, ltd, no, pvt'",509228
+2094,"b'nov, 202122, 10, vtzhyd08'",122002
+2095,"b'502, district, samastipur, vill, bihar, dist, gangsara, post, ps, samastipur'",848505
+2096,"b'atluru, district, s, ysr, badvel, mandalam, venkatapuram'",516501
+2097,"b'kollam, manzil, murukkumon, nilamel, o, obaid, p, r'",691535
+2098,"b'1, 1102, 6a, kadiri, old, samithi,   '",515591
+2099,"b'2nd, kusum, mathura, thakur, vatika, g, gate, janral, store'",281003
+2100,"b'pune,   , bulding, city, magarpatta, mall, pume, season, sumercoat'",411013
+2101,"b'aurangabad, gangapur, gangapur'",431109
+2102,"b'hyderabad, kothaguda, sribagh, colony, mansa, resdincy'",500084
+2103,"b'chikodi, ho,   , post, circle, office'",591201
+2104,"b'31, 4, chintalapudi, district, fire, godavari, station, west, colony'",534460
+2105,"b'07, 27, 301, block, , new, raipur, sector, no'",492015
+2106,"b'blrdel21, mar, 202207, 40'",122002
+2107,"b'113, bagahi, bettiah, patjirwa, baghambarpur, po'",845438
+2108,"b'asurali, kolaghat, pal, by, club,   , sangha, sristi, vaban'",721134
+2109,"b'2, 711411, industries, kesabpur, kiswok, ltd, pvt, unit, limited'",700056
+2110,"b'100ft, 506, agra, dream, kalyani, valley, appartment,   , valley'",700056
+2111,"b'pune,   , bulding, magarpatta, mall, pume'",411013
+2112,"b'202, ckb, eat,   , homes, marathahalli, munnekolala, restarent, ke, paas, smart, venkateswara'",560037
+2113,"b'11g, bagan, entally, kolkata, mein, on,   , tanti'",700014
+2114,"b'  , stand, 123, tronics, main, rk,   , nellikuppam, van'",607105
+2115,"b'14, aeren, chandigarh'",160101
+2116,"b'104, hospital, aarastu, cancr, hills, hotel, hyderab, hyderabad, inn, kindha, heyndi, lo, nunu, no, problem, tisukntanu'",500004
+2117,"b'enterprises, maddhur, old, veeranjaneya, on, cum,   '",571428
+2118,"b'19, 1st, chowk, colony, delhi, durga, flooor, lolol, light, jyoti,   , new, puri, shahdara,   , aggarwal, corer,   '",110032
+2119,"b'100ft, 506, dram, kalyani, appartment, dayalbagh, heigths,   ,   ,   '",282005
+2120,"b'khunti, main, piagio, pipra, chupra, rode, shaanti,   , toli'",835210
+2121,"b'401, ansari, arkade, in, bhiwandi, ke, paas, fareed, flr, fourth, aandu, khandu, tayyab'",421302
+2122,"b'12, dharapuram, tirupur, venkataclapathi, buton, kaja, perchipalayam,   '",641608
+2123,"b'19, 1st, chowk, colonu, delhi, durga, flooor, lolol, light, jyoti,   , new, puri, shahdara,   , aggarwal, corer, neer, sweet'",110032
+2124,"b'100ft, 506, agra, appartment, dream, kalyani, valey, dayalbagh, hieghts,   , kalyani'",282005
+2125,"b'khunti, main, piaggio, pipra, chupra, rode, shaanti,   , toli'",835210
+2126,"b'401, ansari, arkade, in, bhiwandi, ke, pas, fareed, flr, fourth, aandu, khandu, tayyab'",421302
+2127,"b'12, dharapuram, tirupur, venkataclapathi, buton, kaja, perchipalayam, rode'",641608
+2128,"b'126, 9, a, plavati, vazhapadi, vellalgudam, apocit, d, mohanraj, school,   '",636111
+2129,"b'foorest, paralakemundi, gate'",761200
+2130,"b'baleshwar, daula, deua, distric, hat'",756036
+2131,"b'14, areen, chandigarh, it, noo, park,   , solution'",160101
+2132,"b'301, 3rd, bengaluru, sai, agrahara, flor, konen, main, residency,   '",560016
+2133,"b'4, 502, a, aldea, anexo, hotel, mahalunge, orchid, phaze, pune, puraniks, winng'",411045
+2134,"b'602, d, mumbai, nirmann, , marge, palace, pump, rj'",400093
