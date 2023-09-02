@@ -7,5 +7,19 @@ Clustering Indian addresses presents unique challenges and uncertainties due to 
 
 The data was read from a csv into a pandas dataframe which was later converted into a tensorflow dataset
 
+## Data preproccessing
 
+Tasks:
+
+(1) Converting strings to lower case.
+
+(2) Replacing all special characters.
+
+(3) Removing words such as null or none.
+
+(4) Removing extra white spaces between words. 
+
+(5) Removing duplicates- splitting the words, finding unique words, concatenate the unique words.
+
+(6) Eliminating short words .i.e. words of less than 20 characters in length.
 
