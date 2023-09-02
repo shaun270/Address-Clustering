@@ -76,6 +76,8 @@ and so on..
 
 ## Loading the BGE embeddings model and creating embeddings
 
+As on now that is September 2023 the BGE embedding model is the first on the MTEB leaderboard https://huggingface.co/spaces/mteb/leaderboard even surpassing OpenAi embeddings.
+
 The BGE from hugging face was used to encode the 'Delivery_Desc' column into vectors which would later be used for clustering.
 
 Here is the link for the model https://huggingface.co/BAAI/bge-large-en
@@ -83,4 +85,17 @@ Here is the link for the model https://huggingface.co/BAAI/bge-large-en
 ## Clustering
 
 ### DBSCAN method
+
+DBSCAN, which stands for Density-Based Spatial Clustering of Applications with Noise, is a popular clustering method that is fundamentally different from partitioning methods like k-means. Instead of classifying each point into a cluster and adjusting the clusters iteratively, DBSCAN groups together points that are close to each other based on a distance measurement (usually Euclidean distance but for my purpose I have used cosine similarity ) and a minimum number of points. It also marks as outliers the points that are in low-density regions.
+
+DBSCAN works by defining a neighborhood around each data point, and then growing clusters by connecting neighborhoods of neighboring points. More specifically, for each point in the dataset, DBSCAN gathers all points that are at a maximum distance 'eps' from it, and if this neighborhood contains at least 'min_samples' points, a new cluster is created, and the algorithm continues by exploring the neighbors' neighbors and so on. If a neighboring point is already part of another cluster, the two clusters are connected. If a point cannot be added to any cluster (because its neighborhood does not contain enough points), it is marked as noise.
+
+The advantages of DBSCAN are that it does not assume any inherent structure for the data, does not require the number of clusters to be specified beforehand, and can find arbitrarily shaped clusters. It is particularly well-suited for applications where there may be clusters of similar density but different shapes. However, it can struggle with clusters of varying densities and is sensitive to the settings of 'eps' and 'min_samples'.
+
+The results it provided were unsatisfactory as visible in the bge.ipynb file.
+
+### 1:1 comparisons
+
+This step-by-step comparison minimizes the computational load by avoiding unnecessary comparisons, and also takes advantage of the fact that addresses with similar lengths are more likely to be similar or related, making the clustering process more efficient and effective.
+
 
