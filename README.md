@@ -108,7 +108,22 @@ The results this method gave were much better but however there is still some sc
 
 ## Other methods that were considered for vectorization but gave inaccurate vectors:
 
-### 
+### TF-IDF vectorization
+
+TF-IDF (Term Frequency-Inverse Document Frequency) vectorization is a statistical method used to evaluate the importance of a word in a document relative to its frequency in a collection of documents (corpus). It is commonly used in text mining and information retrieval tasks.
+
+Term Frequency (TF): It is the frequency of a word in a document. It is often normalized by dividing by the total number of words in the document to avoid bias towards longer documents.
+
+Inverse Document Frequency (IDF): It is the logarithmically scaled inverse fraction of the documents that contain the word. It diminishes the weight of terms that occur very frequently in the document set and increases the weight of terms that occur rarely.
+
+The TF-IDF score is the product of these two quantities: TF * IDF. This score is used to rank the importance of a word in a document relative to a collection of documents. The higher the TF-IDF score, the rarer and more important the term is. This technique is particularly useful in document retrieval, text mining, and natural language processing tasks because it provides a more meaningful representation of the text than just the raw frequency of words.
+
+![image](https://github.com/shaun270/Address-Clustering/assets/96012817/62212580-918f-4611-a1c0-fa99510be266)
+
+Drawback:
+
+
+
 
 
 
