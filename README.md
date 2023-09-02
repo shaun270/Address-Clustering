@@ -54,4 +54,21 @@ Hence, I converted it back to pandas to continue with the remaining process.
 
 Please refer to the bge.ipynb file for further results.
 
+The final result of preprocessing and standardization is stored in output.csv
+
+## Reading the data
+
+The data is stored in a pandas dataframe.
+
+## Sorting on basis of pincode and ascii value
+
+The methodology behind this step is driven by the reason that 
+
+(1) Comparisons are done within pincodes (N X N).
+
+(2) To optimize, the strings of nearly equal lengths will be compared as a 1:1 comparison .i.e.
+
+address0 compared with address1
+
+address1 compared with address2
 
