@@ -5,4 +5,7 @@ Clustering Indian addresses presents unique challenges and uncertainties due to 
 
 ## Data Loading
 
+The data was read from a csv into a pandas dataframe which was later converted into a tensorflow dataset
+
+
 
