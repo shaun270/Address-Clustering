@@ -23,3 +23,21 @@ Tasks:
 
 (6) Eliminating short words .i.e. words of less than 20 characters in length.
 
+## Bag of words Standardization
+
+(1) We have an existing bag of words and we replace all similar words such as - **house no.** or **h no.** with 1 word such as **house.** 
+
+(2) We do the same for a list of words as follows:
+
+house,
+flat,
+plot,
+ward,
+room,
+apartment,
+door,
+mig,
+quarter,
+duplex.
+
+
