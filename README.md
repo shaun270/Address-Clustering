@@ -72,3 +72,13 @@ address0 compared with address1
 
 address1 compared with address2
 
+and so on..
+
+## Loading the BGE embeddings model and creating embeddings
+
+The BGE from hugging face was used to encode the 'Delivery_Desc' column into vectors which would later be used for clustering.
+
+## Clustering
+
+### DBSCAN method
+
