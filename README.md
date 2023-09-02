@@ -40,4 +40,11 @@ mig,
 quarter,
 duplex.
 
+## Results of preprocessing and standardization
+
+![image](https://github.com/shaun270/Address-Clustering/assets/96012817/f848aa0b-8cb3-4a2d-a1f6-5aca402b4c4e)
+
+![image](https://github.com/shaun270/Address-Clustering/assets/96012817/f01c318b-715e-4c24-a31a-fab77207e132)
+
+
 
