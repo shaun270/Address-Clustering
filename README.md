@@ -44,9 +44,11 @@ duplex.
 
 ## Results of preprocessing and standardization
 
-![image](https://github.com/shaun270/Address-Clustering/assets/96012817/f848aa0b-8cb3-4a2d-a1f6-5aca402b4c4e)
+![image](https://github.com/shaun270/Address-Clustering/assets/96012817/54372bcf-c360-4d35-bc0c-0d448fa229c5)
 
-![image](https://github.com/shaun270/Address-Clustering/assets/96012817/f01c318b-715e-4c24-a31a-fab77207e132)
+
+![image](https://github.com/shaun270/Address-Clustering/assets/96012817/2673cb45-e533-4365-a810-05253c91710a)
+
 
 One drawback that I face now is that sorting the tensorflow dataset on the basis of pincode is not possible, since tensorflow datasets are not meant for that.
 
@@ -118,7 +120,7 @@ Inverse Document Frequency (IDF): It is the logarithmically scaled inverse fract
 
 The TF-IDF score is the product of these two quantities: TF * IDF. This score is used to rank the importance of a word in a document relative to a collection of documents. The higher the TF-IDF score, the rarer and more important the term is. This technique is particularly useful in document retrieval, text mining, and natural language processing tasks because it provides a more meaningful representation of the text than just the raw frequency of words.
 
-![image](https://github.com/shaun270/Address-Clustering/assets/96012817/62212580-918f-4611-a1c0-fa99510be266)
+![image](https://github.com/shaun270/Address-Clustering/assets/96012817/4e99046e-6049-41a6-ad97-14a166d12910)
 
 Drawback:
 
